@@ -1,0 +1,1336 @@
+JJ
+--------------------------------------------------
+[(u'dear', 21),
+ (u'old', 21),
+ (u'new', 20),
+ (u'right', 17),
+ (u'american', 16),
+ (u'good', 15),
+ (u'own', 13),
+ (u'free', 13),
+ (u'awesome', 11),
+ (u'public', 11),
+ (u'entire', 9),
+ (u'wrong', 8),
+ (u'bad', 8),
+ (u'human', 8),
+ (u'corporate', 7),
+ (u'sick', 6),
+ (u'gay', 6),
+ (u'true', 6),
+ (u'long', 6),
+ (u'amazing', 6),
+ (u'big', 6),
+ (u'personal', 6),
+ (u'serious', 5),
+ (u'sure', 5),
+ (u'able', 5),
+ (u'high', 5),
+ (u'dead', 5),
+ (u'political', 5),
+ (u'indefinite', 5),
+ (u'great', 5),
+ (u'nuclear', 5),
+ (u'real', 5),
+ (u'chinese', 5),
+ (u'constitutional', 4),
+ (u'important', 4),
+ (u'ready', 4),
+ (u'open', 4),
+ (u'private', 4),
+ (u'scientific', 4),
+ (u'small', 4),
+ (u'famous', 4),
+ (u'sorry', 4),
+ (u'fine', 4),
+ (u'clean', 3),
+ (u'such', 3),
+ (u'digital', 3),
+ (u'modern', 3),
+ (u'official', 3),
+ (u'happy', 3),
+ (u'white', 3),
+ (u'low', 3),
+ (u'damn', 3),
+ (u'secret', 3),
+ (u'due', 3),
+ (u'comic', 3),
+ (u'military', 3),
+ (u'favorite', 3),
+ (u'full', 3),
+ (u'unconstitutional', 3),
+ (u'hard', 3),
+ (u'large', 3),
+ (u'safe', 3),
+ (u'simple', 3),
+ (u'young', 3),
+ (u'conservative', 3),
+ (u'poor', 3)]
+
+
+
+
+
+
+
+
+
+RP
+--------------------------------------------------
+[(u'up', 53), (u'out', 36), (u'off', 17), (u'down', 17)]
+
+
+
+
+
+
+
+
+
+,
+--------------------------------------------------
+[(u',', 560), (u'[', 51), (u']', 48)]
+
+
+
+
+
+
+
+
+
+RB
+--------------------------------------------------
+[(u'just', 45),
+ (u'now', 27),
+ (u'back', 21),
+ (u'only', 20),
+ (u'ever', 19),
+ (u'then', 17),
+ (u'never', 16),
+ (u'here', 14),
+ (u'else', 12),
+ (u'so', 12),
+ (u'even', 12),
+ (u'ago', 10),
+ (u'finally', 8),
+ (u'really', 8),
+ (u'well', 6),
+ (u'also', 6),
+ (u'away', 6),
+ (u'probably', 5),
+ (u'maybe', 4),
+ (u'again', 4),
+ (u'publicly', 4),
+ (u'soon', 4),
+ (u'currently', 4),
+ (u'still', 4),
+ (u'instead', 3),
+ (u'rather', 3),
+ (u'anymore', 3),
+ (u'almost', 3),
+ (u'ok', 3),
+ (u'about', 3),
+ (u'alone', 3),
+ (u'always', 3),
+ (u'far', 3),
+ (u'actually', 3),
+ (u'yes', 3),
+ (u'openly', 3)]
+
+
+
+
+
+
+
+
+
+NNS
+--------------------------------------------------
+[(u'people', 37),
+ (u'years', 31),
+ (u'hours', 12),
+ (u'students', 8),
+ (u'domains', 8),
+ (u'friends', 7),
+ (u'months', 7),
+ (u'thanks', 7),
+ (u'data', 7),
+ (u'media', 7),
+ (u'children', 7),
+ (u'minutes', 6),
+ (u'rules', 6),
+ (u'millions', 6),
+ (u'companies', 6),
+ (u'guys', 6),
+ (u'protests', 5),
+ (u'users', 5),
+ (u'parents', 5),
+ (u'sites', 5),
+ (u'times', 5),
+ (u'members', 5),
+ (u'articles', 5),
+ (u'men', 5),
+ (u'dollars', 4),
+ (u'sums', 4),
+ (u'customers', 4),
+ (u'things', 4),
+ (u'lives', 4),
+ (u'drugs', 4),
+ (u'others', 4),
+ (u'pictures', 4),
+ (u'doctors', 4),
+ (u'records', 4),
+ (u'rights', 4),
+ (u'talks', 4),
+ (u'files', 3),
+ (u'seconds', 3),
+ (u'works', 3),
+ (u'workers', 3),
+ (u'ads', 3),
+ (u'actions', 3),
+ (u'faces', 3),
+ (u'cuts', 3),
+ (u'words', 3),
+ (u'thousands', 3),
+ (u'points', 3),
+ (u'forces', 3),
+ (u'corporations', 3),
+ (u'cameras', 3),
+ (u'banks', 3),
+ (u'acts', 3),
+ (u'citizens', 3),
+ (u'scientists', 3),
+ (u'results', 3)]
+
+
+
+
+
+
+
+
+
+WRB
+--------------------------------------------------
+[(u'how', 36), (u'when', 35), (u'why', 23), (u'where', 8)]
+
+
+
+
+
+
+
+
+
+NPS
+--------------------------------------------------
+[(u'americans', 8), (u'republicans', 5), (u'muslims', 4), (u'christians', 3)]
+
+
+
+
+
+
+
+
+
+NNS-TL
+--------------------------------------------------
+[(u'police', 5), (u'states', 5), (u'senators', 4), (u'citizens', 3)]
+
+
+
+
+
+
+
+
+
+PN
+--------------------------------------------------
+[(u'anyone', 14),
+ (u'anything', 11),
+ (u'something', 10),
+ (u'everything', 8),
+ (u'someone', 8),
+ (u'nothing', 5),
+ (u'everyone', 5)]
+
+
+
+
+
+
+
+
+
+MD
+--------------------------------------------------
+[(u'can', 43),
+ (u'will', 40),
+ (u'would', 27),
+ (u'should', 20),
+ (u'could', 17),
+ (u'may', 7),
+ (u'must', 4),
+ (u'might', 3)]
+
+
+
+
+
+
+
+
+
+UH
+--------------------------------------------------
+[(u'hey', 8), (u'well', 5), (u'hell', 3), (u'hi', 3), (u'oh', 3)]
+
+
+
+
+
+
+
+
+
+PPS+BEZ
+--------------------------------------------------
+[(u"it's", 32), (u"he's", 5), (u"she's", 3)]
+
+
+
+
+
+
+
+
+
+VBG
+--------------------------------------------------
+[(u'going', 8),
+ (u'trying', 6),
+ (u'using', 6),
+ (u'warning', 5),
+ (u'doing', 5),
+ (u'giving', 5),
+ (u'calling', 5),
+ (u'coming', 4),
+ (u'gaming', 4),
+ (u'holding', 4),
+ (u'blocking', 4),
+ (u'taking', 4),
+ (u'getting', 4),
+ (u'asking', 4),
+ (u'waiting', 4),
+ (u'voting', 3),
+ (u'playing', 3),
+ (u'defending', 3),
+ (u'making', 3),
+ (u'following', 3),
+ (u'ruling', 3),
+ (u'showing', 3),
+ (u'teaching', 3),
+ (u'saying', 3)]
+
+
+
+
+
+
+
+
+
+VBD
+--------------------------------------------------
+[(u'got', 23),
+ (u'said', 20),
+ (u'died', 11),
+ (u'took', 9),
+ (u'wanted', 9),
+ (u'asked', 8),
+ (u'found', 8),
+ (u'saw', 7),
+ (u'went', 7),
+ (u'told', 6),
+ (u'helped', 5),
+ (u'tried', 4),
+ (u'turned', 4),
+ (u'voted', 4),
+ (u'waited', 4),
+ (u'hit', 4),
+ (u'happened', 4),
+ (u'thought', 3),
+ (u'revealed', 3),
+ (u'stole', 3),
+ (u'gave', 3),
+ (u'heard', 3),
+ (u'started', 3),
+ (u'followed', 3),
+ (u'announced', 3)]
+
+
+
+
+
+
+
+
+
+IN
+--------------------------------------------------
+[(u'of', 311),
+ (u'in', 220),
+ (u'for', 185),
+ (u'-', 169),
+ (u'on', 157),
+ (u'from', 72),
+ (u'by', 68),
+ (u'at', 63),
+ (u'with', 62),
+ (u'/', 51),
+ (u'about', 38),
+ (u'over', 31),
+ (u'into', 23),
+ (u'after', 21),
+ (u'without', 18),
+ (u'against', 13),
+ (u'through', 8),
+ (u'during', 7),
+ (u'including', 6),
+ (u'around', 5),
+ (u'across', 5),
+ (u'inside', 4),
+ (u'under', 4),
+ (u'behind', 4),
+ (u'outside', 4),
+ (u'between', 4),
+ (u'upon', 3),
+ (u'anti', 3)]
+
+
+
+
+
+
+
+
+
+VBN
+--------------------------------------------------
+[(u'made', 17),
+ (u'seen', 8),
+ (u'sent', 7),
+ (u'shut', 6),
+ (u'set', 6),
+ (u'killed', 6),
+ (u'used', 5),
+ (u'called', 5),
+ (u'taken', 5),
+ (u'done', 5),
+ (u'lost', 5),
+ (u'left', 4),
+ (u'spent', 4),
+ (u'known', 4),
+ (u'received', 4),
+ (u'fired', 4),
+ (u'banned', 4),
+ (u'saved', 4),
+ (u'released', 3),
+ (u'paid', 3),
+ (u'interested', 3),
+ (u'confirmed', 3),
+ (u'ordered', 3),
+ (u'signed', 3),
+ (u'elected', 3),
+ (u'expected', 3),
+ (u'raised', 3),
+ (u'supposed', 3),
+ (u'arrested', 3),
+ (u'stolen', 3)]
+
+
+
+
+
+
+
+
+
+VBZ
+--------------------------------------------------
+[(u'says', 10),
+ (u'makes', 9),
+ (u'gets', 8),
+ (u'calls', 5),
+ (u'wants', 5),
+ (u'goes', 5),
+ (u'happens', 5),
+ (u'writes', 5),
+ (u'ensues', 4),
+ (u'gives', 4),
+ (u'wins', 3),
+ (u'becomes', 3),
+ (u'takes', 3),
+ (u'finds', 3),
+ (u'loses', 3),
+ (u'turns', 3)]
+
+
+
+
+
+
+
+
+
+.
+--------------------------------------------------
+[(u'.', 811), (u'!', 113), (u'?', 93), (u';', 37)]
+
+
+
+
+
+
+
+
+
+NN
+--------------------------------------------------
+[(u'time', 32),
+ (u'year', 29),
+ (u'support', 22),
+ (u'video', 22),
+ (u'us', 21),
+ (u'amp', 16),
+ (u'day', 16),
+ (u'police', 16),
+ (u'picture', 15),
+ (u'money', 15),
+ (u'work', 15),
+ (u'r', 14),
+ (u'vote', 14),
+ (u'friend', 13),
+ (u'law', 13),
+ (u'bill', 12),
+ (u'care', 12),
+ (u'night', 11),
+ (u'world', 11),
+ (u'wife', 10),
+ (u'life', 10),
+ (u'man', 10),
+ (u'use', 10),
+ (u'guy', 10),
+ (u't', 9),
+ (u'd', 9),
+ (u'dog', 9),
+ (u'system', 9),
+ (u'story', 9),
+ (u'health', 9),
+ (u'school', 9),
+ (u'war', 8),
+ (u'post', 8),
+ (u'news', 8),
+ (u'morning', 8),
+ (u'tax', 8),
+ (u'way', 7),
+ (u'industry', 7),
+ (u'government', 7),
+ (u'rest', 7),
+ (u'site', 7),
+ (u'job', 7),
+ (u'state', 7),
+ (u'movie', 7),
+ (u'computer', 7),
+ (u'brain', 7),
+ (u'link', 7),
+ (u'person', 7),
+ (u'thing', 7),
+ (u'nation', 7),
+ (u'end', 7),
+ (u'phone', 7),
+ (u'company', 7),
+ (u'access', 7),
+ (u'protest', 7),
+ (u'game', 6),
+ (u'floor', 6),
+ (u'i', 6),
+ (u'shit', 6),
+ (u'speech', 6),
+ (u'letter', 6),
+ (u'part', 6),
+ (u'attack', 6),
+ (u'city', 6),
+ (u'girl', 6),
+ (u'petition', 6),
+ (u'costume', 6),
+ (u'office', 6),
+ (u'music', 6),
+ (u'love', 6),
+ (u'daughter', 6),
+ (u'click', 6),
+ (u'detention', 6),
+ (u'song', 6),
+ (u'fight', 5),
+ (u'security', 5),
+ (u'hand', 5),
+ (u'party', 5),
+ (u'budget', 5),
+ (u'cancer', 5),
+ (u'hope', 5),
+ (u'debate', 5),
+ (u'face', 5),
+ (u'class', 5),
+ (u'future', 5),
+ (u'marijuana', 5),
+ (u'court', 5),
+ (u'murder', 5),
+ (u'message', 5),
+ (u'number', 5),
+ (u'gop', 5),
+ (u'idea', 5),
+ (u'interview', 5),
+ (u'dad', 5),
+ (u'information', 5),
+ (u'heart', 5),
+ (u'history', 5),
+ (u'room', 5),
+ (u'share', 5),
+ (u'fbi', 5),
+ (u'campaign', 5),
+ (u'net', 5),
+ (u'p', 5),
+ (u'founder', 5),
+ (u'content', 5),
+ (u'film', 4),
+ (u'problem', 4),
+ (u'record', 4),
+ (u'line', 4),
+ (u'crowd', 4),
+ (u'neutrality', 4),
+ (u'block', 4),
+ (u'act', 4),
+ (u'stem', 4),
+ (u'officer', 4),
+ (u'amendment', 4),
+ (u'page', 4),
+ (u'judge', 4),
+ (u'country', 4),
+ (u'child', 4),
+ (u'drug', 4),
+ (u'c', 4),
+ (u'key', 4),
+ (u'attention', 4),
+ (u'report', 4),
+ (u'staff', 4),
+ (u'shot', 4),
+ (u'fact', 4),
+ (u'self', 4),
+ (u'marriage', 4),
+ (u'claim', 4),
+ (u'reason', 4),
+ (u'ass', 4),
+ (u'oil', 4),
+ (u'society', 4),
+ (u'truth', 4),
+ (u'name', 4),
+ (u'crash', 4),
+ (u'minute', 4),
+ (u'style', 4),
+ (u'light', 4),
+ (u'response', 4),
+ (u'president', 4),
+ (u'birthday', 4),
+ (u'spot', 4),
+ (u'hour', 4),
+ (u'word', 4),
+ (u'charity', 4),
+ (u'door', 4),
+ (u'apple', 4),
+ (u'search', 4),
+ (u'+', 4),
+ (u'sign', 4),
+ (u'team', 4),
+ (u'cause', 4),
+ (u'level', 4),
+ (u'torture', 4),
+ (u'charge', 4),
+ (u'gas', 3),
+ (u'politics', 3),
+ (u'poster', 3),
+ (u'head', 3),
+ (u'building', 3),
+ (u'question', 3),
+ (u'transfer', 3),
+ (u'son', 3),
+ (u'dinner', 3),
+ (u'o', 3),
+ (u'deficit', 3),
+ (u'decision', 3),
+ (u'bottom', 3),
+ (u'election', 3),
+ (u'brutality', 3),
+ (u'mom', 3),
+ (u'traffic', 3),
+ (u'prison', 3),
+ (u'death', 3),
+ (u'speed', 3),
+ (u'position', 3),
+ (u'contact', 3),
+ (u'student', 3),
+ (u'shirt', 3),
+ (u'case', 3),
+ (u'censorship', 3),
+ (u'tour', 3),
+ (u'article', 3),
+ (u'guitar', 3),
+ (u'hell', 3),
+ (u'administration', 3),
+ (u'x', 3),
+ (u'release', 3),
+ (u'photo', 3),
+ (u'justice', 3),
+ (u'cell', 3),
+ (u'don', 3),
+ (u'cousin', 3),
+ (u'top', 3),
+ (u'privacy', 3),
+ (u'basketball', 3),
+ (u'hearing', 3),
+ (u'threat', 3),
+ (u'service', 3),
+ (u'sidewalk', 3),
+ (u'issue', 3),
+ (u'house', 3),
+ (u'domain', 3),
+ (u'term', 3),
+ (u'front', 3),
+ (u'food', 3),
+ (u'coffee', 3),
+ (u'crew', 3),
+ (u'order', 3),
+ (u'science', 3),
+ (u'account', 3),
+ (u'trial', 3),
+ (u'crap', 3),
+ (u'property', 3),
+ (u'change', 3),
+ (u'teacher', 3),
+ (u'hero', 3),
+ (u'body', 3),
+ (u'past', 3),
+ (u'list', 3),
+ (u'button', 3),
+ (u'car', 3),
+ (u'fan', 3),
+ (u'infringement', 3),
+ (u'woman', 3),
+ (u'sleep', 3)]
+
+
+
+
+
+
+
+
+
+NP
+--------------------------------------------------
+[(u'stewart', 12),
+ (u'america', 11),
+ (u'jon', 10),
+ (u'ama', 10),
+ (u'congress', 9),
+ (u'al', 9),
+ (u's', 9),
+ (u'ron', 9),
+ (u'paul', 9),
+ (u'republican', 8),
+ (u'u', 7),
+ (u'bill', 7),
+ (u'bush', 7),
+ (u'john', 6),
+ (u'halloween', 5),
+ (u'egypt', 5),
+ (u'k', 5),
+ (u'iraq', 5),
+ (u'christmas', 5),
+ (u'saudi', 5),
+ (u'stephen', 5),
+ (u'smith', 5),
+ (u'grayson', 4),
+ (u'alan', 4),
+ (u'george', 4),
+ (u'jimmy', 4),
+ (u'california', 4),
+ (u'china', 4),
+ (u'beck', 4),
+ (u'democrat', 4),
+ (u'guy', 4),
+ (u't', 4),
+ (u'christopher', 4),
+ (u'australia', 4),
+ (u'steve', 4),
+ (u'tyson', 3),
+ (u'conan', 3),
+ (u'spain', 3),
+ (u'hollywood', 3),
+ (u'julian', 3),
+ (u'glenn', 3),
+ (u'november', 3),
+ (u'korea', 3),
+ (u'god', 3),
+ (u'arnold', 3),
+ (u'neil', 3),
+ (u'louis', 3),
+ (u'texas', 3),
+ (u'wales', 3),
+ (u'jan', 3),
+ (u'warren', 3),
+ (u'scott', 3),
+ (u'gates', 3)]
+
+
+
+
+
+
+
+
+
+NR
+--------------------------------------------------
+[(u'today', 31),
+ (u'home', 9),
+ (u'yesterday', 6),
+ (u'tomorrow', 5),
+ (u'wednesday', 3)]
+
+
+
+
+
+
+
+
+
+MD*
+--------------------------------------------------
+[(u"can't", 11), (u"won't", 8), (u'cannot', 4)]
+
+
+
+
+
+
+
+
+
+CC
+--------------------------------------------------
+[(u'and', 296), (u'but', 35), (u'or', 28)]
+
+
+
+
+
+
+
+
+
+CD
+--------------------------------------------------
+[(u'one', 39),
+ (u'10', 21),
+ (u'1', 19),
+ (u'5', 12),
+ (u'two', 11),
+ (u'8', 9),
+ (u'30', 8),
+ (u'18', 8),
+ (u'9', 8),
+ (u'3', 8),
+ (u'million', 7),
+ (u'2', 7),
+ (u'four', 6),
+ (u'20', 6),
+ (u'billion', 5),
+ (u'4', 5),
+ (u'21', 5),
+ (u'19', 4),
+ (u'15', 4),
+ (u'500', 4),
+ (u'6', 4),
+ (u'35', 3),
+ (u'50', 3),
+ (u'14', 3),
+ (u'12', 3),
+ (u'13', 3),
+ (u'11', 3),
+ (u'100', 3),
+ (u'70', 3),
+ (u'eight', 3),
+ (u'7', 3),
+ (u'0', 3),
+ (u'24', 3),
+ (u'80', 3),
+ (u'hundred', 3),
+ (u'200', 3)]
+
+
+
+
+
+
+
+
+
+CS
+--------------------------------------------------
+[(u'that', 133),
+ (u'as', 46),
+ (u'if', 44),
+ (u'like', 41),
+ (u'than', 36),
+ (u'while', 21),
+ (u'because', 16),
+ (u'before', 10),
+ (u'until', 10),
+ (u'since', 7),
+ (u'though', 3)]
+
+
+
+
+
+
+
+
+
+JJT
+--------------------------------------------------
+[(u'best', 13), (u'latest', 3), (u'biggest', 3), (u'greatest', 3)]
+
+
+
+
+
+
+
+
+
+JJ-TL
+--------------------------------------------------
+[(u'new', 8),
+ (u'old', 7),
+ (u'holy', 4),
+ (u'white', 4),
+ (u'supreme', 4),
+ (u'north', 3),
+ (u'national', 3)]
+
+
+
+
+
+
+
+
+
+None
+--------------------------------------------------
+[(u'"', 145),
+ (u'reddit', 104),
+ (u'...', 68),
+ (u'sopa', 51),
+ (u'."', 47),
+ (u'internet', 43),
+ (u'pic', 41),
+ (u'$', 32),
+ (u'obama', 31),
+ (u'\u2019', 29),
+ (u'000', 16),
+ (u's', 15),
+ (u'wikileaks', 15),
+ (u'godaddy', 13),
+ (u'google', 12),
+ (u'upvote', 12),
+ (u'facebook', 12),
+ (u'website', 11),
+ (u'youtube', 10),
+ (u'),', 9),
+ (u'pipa', 9),
+ (u'online', 9),
+ (u'?"', 9),
+ (u'wtf', 8),
+ (u'redditor', 8),
+ (u'vote', 8),
+ (u'rep', 8),
+ (u'ip', 7),
+ (u'colbert', 7),
+ (u'not', 7),
+ (u'\u201c', 7),
+ (u'%', 6),
+ (u'..', 6),
+ (u'paypal', 6),
+ (u'twitter', 6),
+ (u'fucking', 6),
+ (u'redditors', 6),
+ (u'2010', 6),
+ (u'palin', 6),
+ (u'girlfriend', 5),
+ (u'uc', 5),
+ (u'occupy', 5),
+ (u'verizon', 5),
+ (u'bbc', 5),
+ (u'wikipedia', 5),
+ (u'copyright', 5),
+ (u'microsoft', 5),
+ (u'franken', 5),
+ (u'org', 5),
+ (u'media', 5),
+ (u'mpaa', 5),
+ (u'imgur', 5),
+ (u':)', 5),
+ (u'at', 4),
+ (u'*', 4),
+ (u'cnn', 4),
+ (u'terrorism', 4),
+ (u'josh', 4),
+ (u'email', 4),
+ (u'haiti', 4),
+ (u'm', 4),
+ (u'megaupload', 4),
+ (u'marijuana', 4),
+ (u'\u2013', 4),
+ (u'legalize', 4),
+ (u'isps', 4),
+ (u'".', 4),
+ (u'logo', 4),
+ (u'amazing', 4),
+ (u'dude', 4),
+ (u'video', 4),
+ (u'iama', 4),
+ (u'videos', 4),
+ (u'til', 3),
+ (u'hilarity', 3),
+ (u'url', 3),
+ (u'....', 3),
+ (u'spice', 3),
+ (u'spam', 3),
+ (u".'", 3),
+ (u'parrot', 3),
+ (u'prop', 3),
+ (u'oblivion', 3),
+ (u'4chan', 3),
+ (u'lost', 3),
+ (u'protesters', 3),
+ (u'schwarzenegger', 3),
+ (u'lets', 3),
+ (u'\u2014', 3),
+ (u'the', 3),
+ (u'ndaa', 3),
+ (u'co', 3),
+ (u'],', 3),
+ (u'etc', 3),
+ (u"reddit's", 3),
+ (u'sen', 3),
+ (u'emails', 3),
+ (u'boyfriend', 3),
+ (u'rick', 3),
+ (u'#', 3),
+ (u'=', 3),
+ (u'assange', 3),
+ (u'\u201d', 3),
+ (u'pornography', 3),
+ (u'blacklist', 3),
+ (u'gif', 3),
+ (u'massive', 3),
+ (u'isp', 3),
+ (u'ricky', 3),
+ (u'arrested', 3),
+ (u'ceo', 3),
+ (u'2012', 3),
+ (u'reuters', 3),
+ (u'breaking', 3),
+ (u',"', 3),
+ (u'boycott', 3),
+ (u'mr', 3),
+ (u'sucks', 3),
+ (u').', 3),
+ (u'nypd', 3),
+ (u'pcip', 3),
+ (u'!"', 3),
+ (u'comcast', 3),
+ (u'to', 3),
+ (u'pics', 3),
+ (u'zach', 3),
+ (u'ever', 3),
+ (u'launch', 3),
+ (u'click', 3),
+ (u'ted', 3),
+ (u'porn', 3),
+ (u'blackout', 3),
+ (u'this', 3),
+ (u'epic', 3),
+ (u'anonymous', 3),
+ (u'degrasse', 3),
+ (u'wyden', 3)]
+
+
+
+
+
+
+
+
+
+NN-TL
+--------------------------------------------------
+[(u'house', 13),
+ (u'president', 12),
+ (u'man', 11),
+ (u'time', 8),
+ (u'act', 8),
+ (u'news', 8),
+ (u'street', 7),
+ (u'wall', 6),
+ (u'senator', 6),
+ (u'state', 5),
+ (u'senate', 5),
+ (u'bay', 5),
+ (u'day', 5),
+ (u'pirate', 5),
+ (u'constitution', 4),
+ (u'world', 4),
+ (u'government', 4),
+ (u'star', 3),
+ (u'corporation', 3),
+ (u'court', 3),
+ (u'science', 3),
+ (u'patriot', 3),
+ (u'life', 3),
+ (u'army', 3),
+ (u'city', 3),
+ (u'school', 3),
+ (u'end', 3),
+ (u'earth', 3),
+ (u'judge', 3),
+ (u'capitol', 3)]
+
+
+
+
+
+
+
+
+
+PPSS
+--------------------------------------------------
+[(u'i', 237), (u'you', 170), (u'we', 77), (u'they', 40)]
+
+
+
+
+
+
+
+
+
+DT
+--------------------------------------------------
+[(u'this', 151), (u'each', 4), (u'another', 4)]
+
+
+
+
+
+
+
+
+
+PPO
+--------------------------------------------------
+[(u'me', 55), (u'him', 28), (u'them', 23), (u'us', 13)]
+
+
+
+
+
+
+
+
+
+PPS
+--------------------------------------------------
+[(u'it', 131), (u'he', 44), (u'she', 7)]
+
+
+
+
+
+
+
+
+
+VB
+--------------------------------------------------
+[(u'get', 33),
+ (u'please', 31),
+ (u'make', 23),
+ (u'think', 23),
+ (u'help', 23),
+ (u'fuck', 22),
+ (u'know', 21),
+ (u'see', 17),
+ (u'take', 15),
+ (u'thank', 14),
+ (u'stop', 13),
+ (u'need', 13),
+ (u'want', 13),
+ (u'put', 13),
+ (u'show', 11),
+ (u'talk', 10),
+ (u'give', 10),
+ (u'keep', 10),
+ (u'go', 10),
+ (u'say', 9),
+ (u'look', 9),
+ (u'move', 9),
+ (u'buy', 8),
+ (u'run', 8),
+ (u'try', 7),
+ (u'break', 7),
+ (u'watch', 7),
+ (u'believe', 7),
+ (u'remember', 6),
+ (u'pay', 6),
+ (u'meet', 6),
+ (u'join', 6),
+ (u'hear', 6),
+ (u'read', 6),
+ (u'save', 6),
+ (u'kill', 6),
+ (u'play', 5),
+ (u'rally', 5),
+ (u'call', 5),
+ (u'ask', 5),
+ (u'win', 5),
+ (u'come', 5),
+ (u'fix', 5),
+ (u'find', 5),
+ (u'write', 4),
+ (u'agree', 4),
+ (u'wish', 4),
+ (u'tell', 4),
+ (u'start', 4),
+ (u'raise', 4),
+ (u'com', 4),
+ (u'appear', 4),
+ (u'drop', 4),
+ (u'bear', 4),
+ (u'cover', 4),
+ (u'leave', 3),
+ (u'destroy', 3),
+ (u'beat', 3),
+ (u'sell', 3),
+ (u'check', 3),
+ (u'live', 3),
+ (u'submit', 3),
+ (u'quit', 3),
+ (u'establish', 3),
+ (u'feel', 3),
+ (u'spill', 3),
+ (u'wait', 3),
+ (u'teach', 3),
+ (u'let', 3),
+ (u'lead', 3),
+ (u'happen', 3),
+ (u'pass', 3),
+ (u'mean', 3),
+ (u'remove', 3),
+ (u'spread', 3)]
+
+
+
+
+
+
+
+
+
+PP$
+--------------------------------------------------
+[(u'my', 112),
+ (u'your', 63),
+ (u'his', 60),
+ (u'our', 31),
+ (u'their', 27),
+ (u'its', 22),
+ (u'her', 21)]
+
+
+
+
+
+
+
+
+
+AP
+--------------------------------------------------
+[(u'last', 14),
+ (u'other', 13),
+ (u'little', 9),
+ (u'much', 7),
+ (u'single', 7),
+ (u'many', 7),
+ (u'less', 7),
+ (u'next', 6),
+ (u'few', 4),
+ (u'same', 4),
+ (u'more', 3)]
+
+
+
+
+
+
+
+
+
+AT
+--------------------------------------------------
+[(u'the', 636), (u'a', 391), (u'an', 73), (u'no', 29), (u'every', 14)]
+
+
+
+
+
+
+
+
+
+QL
+--------------------------------------------------
+[(u'so', 27),
+ (u'more', 23),
+ (u'most', 10),
+ (u'pretty', 7),
+ (u'too', 7),
+ (u'very', 6)]
+
+
+
+
+
+
+
+
+

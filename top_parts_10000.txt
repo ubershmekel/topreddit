@@ -1,0 +1,6607 @@
+WDT - WH-determiner
+--------------------------------------------------
+what	494
+which	84
+whatever	6
+
+
+
+
+
+
+
+
+
+
+JJ - adjective
+--------------------------------------------------
+new	177
+old	171
+right	129
+good	112
+dear	98
+own	84
+american	80
+free	75
+bad	65
+public	60
+real	58
+gay	57
+wrong	56
+awesome	53
+long	50
+local	47
+big	46
+entire	43
+human	38
+dead	37
+high	37
+secret	36
+political	35
+such	35
+full	35
+sure	34
+personal	34
+funny	33
+poor	32
+amazing	32
+true	31
+corporate	31
+hard	31
+due	30
+federal	30
+sick	29
+great	29
+cool	28
+comic	26
+military	26
+official	25
+favorite	25
+stupid	25
+open	25
+able	24
+huge	24
+serious	23
+medical	23
+simple	23
+whole	23
+crazy	23
+small	23
+chinese	23
+important	21
+happy	21
+low	21
+legal	21
+present	21
+fine	21
+worth	21
+illegal	21
+commercial	21
+large	21
+sorry	21
+clear	20
+interesting	20
+christian	20
+original	19
+nice	19
+black	19
+private	19
+young	19
+complete	18
+constitutional	18
+different	18
+straight	18
+drunk	18
+national	18
+rich	17
+white	17
+british	17
+special	17
+safe	17
+current	17
+popular	16
+possible	16
+recent	16
+normal	16
+responsible	16
+civil	15
+actual	15
+german	15
+major	15
+extra	15
+russian	14
+average	14
+damn	14
+late	14
+beautiful	14
+fake	14
+japanese	14
+sad	13
+english	13
+european	13
+ready	13
+indefinite	13
+insane	13
+proud	13
+financial	13
+angry	13
+social	13
+likely	13
+religious	13
+nuclear	12
+common	12
+famous	12
+random	12
+double	12
+final	12
+cute	12
+scientific	11
+conservative	11
+unconstitutional	11
+giant	11
+hilarious	11
+perfect	11
+effective	11
+short	11
+muslim	11
+welcome	10
+deep	10
+peaceful	10
+jewish	10
+clean	10
+powerful	10
+massive	10
+sexual	10
+presidential	10
+wealthy	10
+natural	10
+mad	10
+okay	10
+rare	10
+international	10
+ridiculous	10
+alien	10
+economic	9
+early	9
+easy	9
+modern	9
+fair	9
+worldwide	9
+brilliant	9
+ashamed	9
+clever	9
+complex	9
+useful	9
+certain	8
+alive	8
+lucky	8
+congressional	8
+senior	8
+honest	8
+terrible	8
+willing	8
+hot	8
+cold	8
+glad	8
+guilty	8
+egyptian	8
+creative	8
+remote	7
+appropriate	7
+super	7
+violent	7
+dark	7
+empty	7
+unable	7
+afraid	7
+false	7
+innocent	7
+loud	7
+red	7
+absolute	7
+aware	7
+french	7
+brave	7
+correct	7
+controversial	7
+incredible	6
+general	6
+universal	6
+elementary	6
+deaf	6
+italian	6
+quick	6
+domestic	6
+accurate	6
+swiss	6
+everyday	6
+basic	6
+tiny	6
+foreign	6
+available	6
+inappropriate	6
+prime	6
+significant	6
+ironic	6
+impossible	6
+norwegian	6
+heavy	6
+difficult	6
+irish	6
+criminal	6
+typical	6
+islamic	6
+successful	6
+strong	6
+active	6
+fat	6
+asian	6
+accidental	5
+homosexual	5
+proper	5
+classic	5
+dangerous	5
+solar	5
+elderly	5
+critical	5
+curious	5
+healthy	5
+unlimited	5
+evil	5
+expensive	5
+relevant	5
+ill	5
+individual	5
+endless	5
+cheap	5
+professional	5
+traditional	5
+mobile	5
+electric	5
+multiple	5
+catholic	5
+direct	5
+wonderful	5
+blind	5
+standard	5
+needless	5
+reasonable	5
+intelligent	5
+african	5
+awkward	5
+unarmed	5
+particular	5
+holy	5
+flat	5
+fantastic	5
+blue	5
+magic	5
+global	5
+fresh	4
+digital	4
+offensive	4
+upcoming	4
+physical	4
+syrian	4
+annoying	4
+similar	4
+smooth	4
+atlantic	4
+brazilian	4
+collective	4
+helpful	4
+cultural	4
+smart	4
+exempt	4
+strange	4
+sudden	4
+quiet	4
+wild	4
+solid	4
+horrible	4
+various	4
+probable	4
+disturbing	4
+corrupt	4
+dumb	4
+mandatory	4
+naked	4
+autistic	4
+regular	4
+useless	4
+silly	4
+permanent	4
+pakistani	4
+spanish	4
+primary	4
+hostile	4
+mental	4
+pregnant	4
+impressive	4
+unacceptable	4
+tall	4
+pink	4
+toxic	4
+swedish	4
+obvious	4
+ignorant	4
+warm	4
+moral	4
+uncomfortable	4
+teenage	4
+oral	3
+fiscal	3
+deadly	3
+incorrect	3
+dirty	3
+native	3
+cruel	3
+pharmaceutical	3
+pointless	3
+essential	3
+intense	3
+broad	3
+extinct	3
+goddamn	3
+necessary	3
+unique	3
+unprecedented	3
+arresting	3
+alternate	3
+profitable	3
+mid	3
+speechless	3
+alert	3
+independent	3
+promising	3
+stunning	3
+unpopular	3
+evangelical	3
+careful	3
+unusual	3
+newborn	3
+supreme	3
+sweet	3
+glorious	3
+loose	3
+equal	3
+annual	3
+talented	3
+numerous	3
+familiar	3
+rough	3
+artistic	3
+grave	3
+tibetan	3
+potential	3
+undercover	3
+genuine	3
+vulnerable	3
+comfortable	3
+aggressive	3
+vocal	3
+diplomatic	3
+wide	3
+western	3
+excellent	3
+tragic	3
+sheer	3
+legislative	3
+unexpected	3
+radical	3
+enormous	3
+scary	3
+extraordinary	3
+caucasian	3
+engaging	3
+realistic	3
+civilian	3
+shallow	3
+evolutionary	3
+drunken	3
+democratic	3
+furious	3
+green	3
+lame	3
+ordinary	3
+lousy	3
+rid	3
+minimum	3
+nonviolent	3
+acceptable	3
+belgian	3
+golden	3
+creepy	3
+technical	3
+extreme	3
+hungry	3
+round	3
+vast	3
+exact	3
+awful	3
+brown	3
+friendly	3
+eligible	3
+
+
+
+
+
+
+
+
+
+
+RP - adverb, particle
+--------------------------------------------------
+up	406
+out	341
+down	157
+off	126
+
+
+
+
+
+
+
+
+
+
+PPSS+BER - pronoun, personal, nominative, not 3rd person singular + verb 'to be', present tense, 2nd person singular or all persons plural
+--------------------------------------------------
+you're	73
+we're	37
+they're	32
+
+
+
+
+
+
+
+
+
+
+, - comma
+--------------------------------------------------
+,	4310
+]	428
+[	426
+
+
+
+
+
+
+
+
+
+
+RB - adverb
+--------------------------------------------------
+just	435
+now	265
+ever	230
+only	172
+so	166
+then	140
+never	120
+here	119
+back	110
+even	92
+really	80
+still	80
+ago	79
+else	77
+away	64
+actually	60
+again	55
+finally	54
+far	46
+yes	44
+once	42
+instead	42
+always	42
+also	39
+well	38
+almost	35
+yet	32
+recently	29
+close	27
+about	26
+alone	26
+already	25
+probably	25
+meanwhile	23
+together	22
+rather	22
+yeah	22
+maybe	21
+seriously	19
+nearly	19
+fast	18
+soon	18
+sometimes	17
+anymore	17
+true	17
+currently	17
+completely	16
+often	15
+ok	15
+simply	14
+officially	14
+publicly	12
+exactly	12
+literally	12
+truly	12
+forever	11
+illegally	11
+apparently	11
+immediately	11
+forward	10
+suddenly	10
+anyway	9
+accidentally	9
+possibly	9
+quietly	9
+personally	8
+quickly	8
+usually	8
+openly	8
+unfortunately	7
+legally	7
+successfully	7
+apart	7
+fully	6
+totally	6
+mostly	6
+indefinitely	6
+basically	6
+everywhere	6
+next	6
+secretly	6
+twice	6
+normally	5
+honestly	5
+definitely	5
+obviously	5
+especially	5
+easily	5
+repeatedly	5
+daily	5
+effectively	5
+directly	5
+anywhere	5
+asleep	5
+entirely	5
+upside	5
+instantly	5
+sure	5
+deliberately	5
+unanimously	5
+deeply	4
+perhaps	4
+kinda	4
+randomly	4
+ridiculously	4
+properly	4
+circa	4
+due	4
+slightly	4
+backwards	4
+annually	4
+yea	4
+humbly	3
+inadvertently	3
+badly	3
+potentially	3
+lately	3
+clearly	3
+awhile	3
+surprisingly	3
+thus	3
+violently	3
+strongly	3
+alike	3
+inside	3
+permanently	3
+essentially	3
+mistakenly	3
+formerly	3
+regardless	3
+otherwise	3
+mildly	3
+remotely	3
+nowhere	3
+however	3
+somehow	3
+originally	3
+actively	3
+brutally	3
+somewhere	3
+severely	3
+poorly	3
+indeed	3
+
+
+
+
+
+
+
+
+
+
+JJ-HL - adjective headlines
+--------------------------------------------------
+corporate	5
+surprise	5
+financial	4
+legal	3
+equal	3
+
+
+
+
+
+
+
+
+
+
+NNS - noun, plural, common
+--------------------------------------------------
+people	317
+years	231
+thanks	66
+things	65
+guys	60
+months	59
+hours	58
+friends	55
+times	47
+days	47
+children	46
+minutes	44
+needs	44
+media	41
+students	38
+parents	38
+works	35
+kids	35
+men	35
+pictures	34
+corporations	33
+rights	32
+photos	30
+drugs	30
+thousands	30
+dollars	28
+taxes	28
+cops	28
+companies	28
+citizens	27
+women	27
+scientists	27
+posts	27
+protests	26
+data	26
+users	25
+cuts	24
+comments	23
+charges	23
+sites	23
+millions	23
+lives	22
+games	22
+seconds	21
+customers	21
+words	21
+laws	21
+books	21
+votes	21
+questions	19
+countries	19
+doctors	19
+girls	19
+members	19
+looks	19
+banks	19
+weeks	18
+rules	17
+workers	17
+jobs	17
+means	17
+domains	17
+claims	16
+accounts	15
+ads	15
+officers	15
+trees	15
+politicians	14
+others	14
+employees	14
+results	14
+stories	13
+hits	13
+officials	13
+candidates	13
+soldiers	13
+signs	13
+fans	13
+problems	12
+faces	12
+forces	12
+sounds	12
+cameras	12
+shoes	12
+ones	12
+links	12
+arms	12
+names	12
+strikes	11
+images	11
+programs	11
+teachers	11
+ways	11
+points	11
+orders	11
+dogs	11
+messages	11
+cars	11
+effects	11
+plans	11
+numbers	11
+troops	11
+ladies	10
+victims	10
+events	10
+cents	10
+eyes	10
+computers	10
+crimes	10
+hands	10
+movies	10
+animals	10
+balls	10
+reports	10
+hundreds	10
+issues	10
+details	9
+cells	9
+files	9
+sums	9
+actions	9
+polls	9
+groups	9
+ends	9
+humans	9
+unions	9
+fees	9
+acts	9
+brothers	8
+sales	8
+services	8
+terrorists	8
+schools	8
+viewers	8
+policies	8
+elections	8
+agents	8
+signatures	8
+scanners	8
+articles	8
+wars	8
+films	8
+changes	8
+phones	8
+neighbors	8
+authorities	7
+abuses	7
+places	7
+boys	7
+cats	7
+executives	7
+networks	7
+voters	7
+copies	7
+ants	7
+agencies	7
+weapons	7
+bars	7
+miles	7
+trolls	7
+attempts	7
+pages	7
+ideas	7
+patients	7
+benefits	7
+tents	7
+subscribers	7
+records	7
+tips	7
+causes	7
+skills	7
+talks	7
+profits	6
+bacteria	6
+funds	6
+rolls	6
+attacks	6
+nails	6
+dreams	6
+reasons	6
+moments	6
+liberties	6
+ratings	6
+plants	6
+covers	6
+flies	6
+pants	6
+shots	6
+jokes	6
+pets	6
+folks	6
+freedoms	6
+releases	6
+rates	6
+returns	6
+speeds	6
+fines	6
+degrees	6
+birds	6
+documents	6
+pieces	6
+drops	6
+states	6
+cases	6
+addresses	6
+civilians	6
+consumers	6
+leaders	6
+riots	6
+songs	5
+developers	5
+fools	5
+commercials	5
+proceeds	5
+congratulations	5
+courts	5
+posters	5
+billions	5
+statements	5
+efforts	5
+stations	5
+donations	5
+taxpayers	5
+bastards	5
+boxes	5
+matters	5
+addicts	5
+doors	5
+researchers	5
+costs	5
+requests	5
+daughters	5
+pounds	5
+homes	5
+abortions	5
+families	5
+adults	5
+players	5
+limits	5
+conditions	5
+cartoons	5
+photographs	5
+labels	5
+bodies	5
+projects	5
+powers	5
+cards	5
+classes	5
+stairs	5
+feet	5
+gallons	5
+arrests	5
+rocks	5
+forms	5
+subsidies	5
+supporters	5
+patents	5
+products	5
+passengers	5
+objects	5
+supplies	5
+streets	5
+bankers	4
+values	4
+teeth	4
+amounts	4
+cables	4
+odds	4
+dealers	4
+borders	4
+beings	4
+prisoners	4
+goods	4
+gifts	4
+tsunami	4
+artists	4
+caps	4
+worlds	4
+tables	4
+facts	4
+drivers	4
+thoughts	4
+lawyers	4
+babies	4
+experts	4
+couples	4
+engineers	4
+salaries	4
+wants	4
+cities	4
+jets	4
+awards	4
+deputies	4
+farmers	4
+threats	4
+terms	4
+controls	4
+keys	4
+spaces	4
+pencils	4
+scenes	4
+flowers	4
+ruins	4
+owners	4
+conservatives	4
+rioters	4
+firms	4
+fires	4
+logs	4
+glasses	4
+bills	4
+instructions	4
+tears	4
+systems	4
+bridges	4
+senators	4
+wolves	4
+crashes	4
+millionaires	4
+restaurants	4
+debates	4
+asses	4
+coins	4
+feelings	4
+grandparents	4
+guns	4
+witnesses	4
+makers	4
+demonstrations	4
+cookies	4
+ups	4
+notes	4
+governments	4
+monkeys	4
+petitions	4
+legislators	4
+vehicles	3
+tricks	3
+regulations	3
+kinds	3
+papers	3
+actors	3
+journalists	3
+finals	3
+deaths	3
+sticks	3
+markets	3
+loopholes	3
+hopes	3
+clinics	3
+kittens	3
+vegetables	3
+seeds	3
+crowds	3
+loans	3
+sharks	3
+opponents	3
+models	3
+demonstrators	3
+bones	3
+offenders	3
+zombies	3
+individuals	3
+advances	3
+dicks	3
+crops	3
+advertisements	3
+settlements	3
+gangs	3
+stores	3
+sets	3
+options	3
+replies	3
+persons	3
+holidays	3
+parts	3
+demands	3
+punches	3
+choices	3
+towns	3
+kicks	3
+tens	3
+stamps	3
+materials	3
+clips	3
+checks	3
+extremists	3
+floods	3
+runs	3
+areas	3
+teens	3
+reporters	3
+colleagues	3
+villages	3
+consequences	3
+paintings	3
+complaints	3
+experiences	3
+medals	3
+concerns	3
+graffiti	3
+voices	3
+ages	3
+interests	3
+cracks	3
+inmates	3
+legs	3
+interviews	3
+atheists	3
+heads	3
+ethics	3
+features	3
+lawsuits	3
+recordings	3
+churches	3
+reactions	3
+apples	3
+fields	3
+settings	3
+communities	3
+cigarettes	3
+walls	3
+views	3
+decades	3
+professors	3
+charities	3
+pilots	3
+forums	3
+heroes	3
+blocks	3
+buildings	3
+maps	3
+nuts	3
+rays	3
+gains	3
+hides	3
+parties	3
+trips	3
+tools	3
+toys	3
+items	3
+answers	3
+prescriptions	3
+lights	3
+decisions	3
+drinks	3
+shirts	3
+titles	3
+penalties	3
+rats	3
+colors	3
+mothers	3
+tickets	3
+remarks	3
+tanks	3
+sponsors	3
+veterans	3
+lawmakers	3
+suits	3
+ounces	3
+hats	3
+
+
+
+
+
+
+
+
+
+
+WRB - WH-adverb
+--------------------------------------------------
+how	439
+when	355
+why	249
+where	75
+whenever	7
+
+
+
+
+
+
+
+
+
+
+NN$ - noun, singular, common, genitive
+--------------------------------------------------
+friend's	21
+world's	16
+son's	10
+man's	9
+wife's	8
+woman's	8
+brother's	6
+daughter's	5
+family's	4
+student's	4
+kid's	4
+baby's	4
+government's	3
+country's	3
+year's	3
+night's	3
+nation's	3
+girl's	3
+neighbor's	3
+cousin's	3
+
+
+
+
+
+
+
+
+
+
+NNS-HL - noun, plural, common headlines
+--------------------------------------------------
+jobs	14
+reasons	3
+results	3
+problems	3
+charges	3
+
+
+
+
+
+
+
+
+
+
+OD - numeral, ordinal
+--------------------------------------------------
+first	177
+second	26
+third	11
+18th	7
+2nd	7
+4th	6
+21st	6
+25th	5
+6th	4
+3rd	4
+20th	3
+fifth	3
+
+
+
+
+
+
+
+
+
+
+PPSS+MD - pronoun, personal, nominative, not 3rd person singular + modal auxillary
+--------------------------------------------------
+i'll	56
+i'd	31
+you'll	14
+you'd	5
+they'll	3
+they'd	3
+we'll	3
+
+
+
+
+
+
+
+
+
+
+NPS - noun, plural, proper
+--------------------------------------------------
+americans	69
+republicans	47
+democrats	16
+muslims	11
+christians	9
+nazis	6
+canadians	4
+olympics	4
+philippines	3
+germans	3
+feds	3
+
+
+
+
+
+
+
+
+
+
+NNS-TL - noun, plural, common titles
+--------------------------------------------------
+police	59
+states	32
+senators	16
+times	13
+citizens	13
+women	9
+wars	9
+banks	6
+voters	6
+boys	6
+eyes	6
+days	6
+trees	6
+brothers	5
+girls	5
+data	5
+games	5
+taxes	5
+veterans	5
+woods	5
+services	4
+nations	4
+rights	4
+representatives	4
+works	4
+hands	4
+moments	4
+claims	3
+congressmen	3
+savings	3
+friends	3
+forces	3
+cards	3
+comics	3
+tales	3
+machines	3
+pirates	3
+schools	3
+words	3
+rules	3
+founders	3
+workers	3
+
+
+
+
+
+
+
+
+
+
+PN - pronoun, nominal
+--------------------------------------------------
+anyone	101
+something	77
+someone	67
+everyone	54
+anything	47
+everything	44
+nothing	39
+nobody	12
+everybody	12
+somebody	11
+anybody	10
+none	6
+
+
+
+
+
+
+
+
+
+
+MD - modal auxillary
+--------------------------------------------------
+will	313
+can	274
+would	228
+should	170
+could	94
+may	45
+must	44
+might	34
+shall	3
+
+
+
+
+
+
+
+
+
+
+NN-HL - noun, singular, common headlines
+--------------------------------------------------
+super	13
+origin	9
+steam	7
+bundle	7
+proof	6
+un	4
+kind	3
+screen	3
+gear	3
+pilot	3
+
+
+
+
+
+
+
+
+
+
+VBZ-HL - verb, present tense, 3rd person singular headlines
+--------------------------------------------------
+gets	10
+calls	9
+supports	3
+
+
+
+
+
+
+
+
+
+
+UH - interjection
+--------------------------------------------------
+hey	96
+oh	61
+well	45
+hi	16
+hello	13
+wow	13
+hell	11
+goodbye	8
+whoa	6
+ha	5
+eh	5
+uh	4
+okay	4
+um	3
+bullshit	3
+
+
+
+
+
+
+
+
+
+
+PPS+BEZ - pronoun, personal, nominative, 3rd person singular + verb 'to be', present tense, 3rd person singular
+--------------------------------------------------
+it's	250
+he's	55
+she's	18
+
+
+
+
+
+
+
+
+
+
+VBG - verb, present participle or gerund
+--------------------------------------------------
+going	104
+doing	73
+using	63
+trying	61
+getting	54
+taking	43
+making	43
+working	43
+giving	34
+looking	32
+coming	31
+asking	30
+gaming	29
+watching	28
+reading	26
+saying	26
+running	26
+voting	25
+playing	25
+thinking	24
+holding	20
+calling	20
+walking	20
+living	20
+seeing	19
+parking	19
+growing	19
+painting	18
+sitting	17
+driving	17
+drawing	15
+happening	14
+lying	14
+cutting	14
+telling	14
+spending	13
+paying	13
+wearing	13
+sharing	13
+following	13
+starting	12
+shooting	12
+moving	12
+talking	12
+hacking	12
+waiting	12
+putting	12
+sleeping	11
+blocking	11
+leaving	11
+sending	11
+warning	10
+ruling	10
+filming	10
+changing	10
+buying	10
+funding	10
+browsing	10
+beating	10
+dying	9
+kidding	9
+losing	9
+facing	9
+fighting	9
+shopping	9
+passing	9
+riding	9
+ending	9
+finding	9
+teaching	9
+carrying	8
+helping	8
+claiming	8
+wasting	8
+showing	8
+reporting	8
+considering	8
+opening	8
+creating	8
+knowing	8
+throwing	8
+covering	8
+recording	8
+linking	8
+falling	8
+drinking	8
+setting	7
+protesting	7
+raising	7
+listening	7
+fishing	7
+tracking	7
+dropping	7
+writing	7
+protecting	7
+selling	7
+leading	7
+saving	7
+receiving	7
+serving	7
+breaking	7
+introducing	7
+depicting	6
+becoming	6
+laughing	6
+donating	6
+smoking	6
+turning	6
+acting	6
+trading	6
+suing	6
+loving	6
+supporting	6
+hanging	6
+allowing	5
+flying	5
+removing	5
+dating	5
+failing	5
+cleaning	5
+declaring	5
+investigating	5
+learning	5
+camping	5
+spraying	5
+attacking	5
+causing	5
+speaking	5
+threatening	5
+stealing	5
+signing	5
+demanding	5
+wondering	5
+standing	5
+advertising	5
+pushing	5
+referring	5
+explaining	4
+offering	4
+spreading	4
+blowing	4
+streaming	4
+hoping	4
+defending	4
+developing	4
+approaching	4
+ranking	4
+arguing	4
+focusing	4
+proposing	4
+pulling	4
+entering	4
+celebrating	4
+sweeping	4
+winning	4
+assaulting	4
+jumping	4
+charging	4
+destroying	4
+embarrassing	4
+refusing	4
+opposing	4
+hiding	4
+criticizing	4
+existing	4
+pointing	4
+rolling	3
+forcing	3
+engineering	3
+urging	3
+submitting	3
+blaming	3
+flowing	3
+invading	3
+burning	3
+marketing	3
+eating	3
+suffering	3
+checking	3
+starving	3
+remaining	3
+crying	3
+adding	3
+letting	3
+viewing	3
+realizing	3
+flooding	3
+publishing	3
+earning	3
+packaging	3
+picking	3
+rejecting	3
+missing	3
+attempting	3
+satisfying	3
+crashing	3
+joining	3
+involving	3
+handing	3
+dining	3
+editing	3
+studying	3
+dancing	3
+providing	3
+typing	3
+terrifying	3
+expecting	3
+programming	3
+drowning	3
+attending	3
+screaming	3
+naming	3
+debating	3
+hearing	3
+violating	3
+ruining	3
+smiling	3
+balancing	3
+complaining	3
+replacing	3
+posing	3
+keeping	3
+cheating	3
+withdrawing	3
+wrapping	3
+surrounding	3
+dealing	3
+washing	3
+bringing	3
+returning	3
+promoting	3
+citing	3
+hating	3
+
+
+
+
+
+
+
+
+
+
+VBD - verb, past tense
+--------------------------------------------------
+got	203
+found	145
+said	120
+took	77
+thought	73
+asked	72
+saw	65
+told	64
+went	62
+died	49
+wanted	45
+happened	45
+came	41
+gave	38
+caught	38
+heard	36
+voted	33
+tried	32
+passed	31
+decided	31
+started	27
+turned	26
+hit	24
+bought	22
+drew	21
+wrote	21
+failed	20
+helped	18
+won	17
+ran	16
+worked	16
+knew	15
+realized	14
+figured	14
+noticed	14
+met	14
+broke	13
+looked	12
+dropped	12
+refused	12
+felt	12
+walked	11
+played	11
+promised	11
+announced	11
+stood	11
+brought	11
+stole	10
+showed	10
+responded	9
+fell	9
+watched	9
+stuck	9
+followed	9
+forgot	9
+stopped	9
+ended	9
+pulled	8
+kept	8
+protested	8
+lied	8
+stayed	7
+opened	7
+picked	7
+laughed	7
+seemed	7
+handed	7
+detained	6
+sat	6
+dumped	6
+leaked	6
+woke	6
+existed	6
+disappeared	6
+threatened	6
+kicked	6
+blew	6
+returned	6
+touched	6
+moved	5
+revealed	5
+arrived	5
+crashed	5
+reminded	5
+claimed	5
+knocked	5
+fought	5
+drove	5
+declared	5
+waited	5
+became	5
+chose	5
+believed	5
+led	5
+wondered	5
+declined	5
+warned	5
+flew	5
+amused	4
+stumbled	4
+began	4
+greeted	4
+grew	4
+loved	4
+suspected	4
+landed	4
+explained	4
+slept	4
+liked	4
+yelled	4
+admitted	4
+clicked	4
+blamed	3
+reached	3
+proved	3
+lived	3
+pushed	3
+reacted	3
+suffered	3
+rode	3
+distracted	3
+answered	3
+cleared	3
+talked	3
+backed	3
+demanded	3
+ate	3
+grabbed	3
+flooded	3
+contributed	3
+jumped	3
+resigned	3
+swept	3
+spotted	3
+hung	3
+sang	3
+stepped	3
+smashed	3
+meant	3
+slipped	3
+pointed	3
+cried	3
+managed	3
+
+
+
+
+
+
+
+
+
+
+VBN-TL - verb, past participle titles
+--------------------------------------------------
+united	51
+planned	4
+armed	3
+
+
+
+
+
+
+
+
+
+
+IN - preposition
+--------------------------------------------------
+of	2591
+in	2021
+for	1522
+-	1461
+on	1175
+with	668
+from	635
+at	550
+by	466
+/	411
+about	338
+after	211
+into	177
+over	176
+against	106
+without	97
+through	72
+under	62
+during	59
+around	50
+anti	49
+between	48
+including	32
+behind	30
+inside	28
+per	28
+across	26
+outside	26
+out	24
+near	19
+within	13
+according	11
+despite	11
+upon	10
+among	10
+via	9
+regarding	8
+save	8
+beyond	8
+onto	7
+above	7
+along	6
+towards	5
+except	5
+toward	4
+beside	4
+throughout	4
+besides	3
+concerning	3
+below	3
+
+
+
+
+
+
+
+
+
+
+VBN - verb, past participle
+--------------------------------------------------
+made	205
+seen	81
+called	64
+left	61
+used	61
+lost	50
+done	49
+sent	48
+taken	43
+killed	31
+set	30
+banned	26
+arrested	26
+posted	24
+received	24
+fired	24
+saved	24
+created	23
+signed	21
+spent	21
+shut	21
+based	20
+paid	19
+forced	19
+released	18
+allowed	18
+donated	17
+raised	17
+gone	16
+fixed	16
+known	16
+needed	15
+held	15
+married	14
+changed	14
+required	13
+broken	13
+finished	13
+sold	13
+written	13
+charged	13
+built	13
+given	13
+missed	13
+named	13
+caused	13
+interested	12
+closed	12
+discovered	12
+considered	12
+involved	12
+tired	12
+painted	11
+bored	11
+introduced	11
+published	11
+ordered	11
+elected	11
+related	11
+covered	11
+fed	11
+learned	11
+denied	10
+born	10
+stolen	10
+attacked	10
+sued	10
+proposed	10
+supposed	10
+ruled	9
+expected	9
+accused	9
+supported	9
+upset	9
+approved	9
+owned	9
+happened	9
+included	8
+filed	8
+scared	8
+raped	8
+dedicated	8
+retired	8
+reported	8
+filled	8
+shared	8
+compared	7
+removed	7
+increased	7
+frozen	7
+nailed	7
+hired	7
+added	7
+treated	7
+blown	7
+destroyed	7
+organized	7
+locked	7
+abandoned	7
+concerned	7
+issued	7
+rescued	6
+prosecuted	6
+recorded	6
+reduced	6
+captured	6
+amazed	6
+grown	6
+linked	6
+tortured	6
+adopted	6
+caught	6
+hacked	6
+taught	6
+committed	6
+installed	6
+executed	6
+designed	6
+tested	6
+beaten	6
+requested	5
+raided	5
+served	5
+sprayed	5
+extended	5
+confirmed	5
+launched	5
+animated	5
+replaced	5
+invited	5
+filmed	5
+shot	5
+buried	5
+gotten	5
+rejected	5
+shown	5
+worried	5
+disabled	5
+developed	5
+disgusted	5
+performed	5
+rigged	5
+inspired	5
+invented	5
+cheated	4
+dressed	4
+ruined	4
+attached	4
+abused	4
+deployed	4
+alleged	4
+exposed	4
+advanced	4
+surprised	4
+excited	4
+logged	4
+diagnosed	4
+split	4
+canceled	4
+cancelled	4
+described	4
+asked	4
+drawn	4
+outraged	4
+produced	4
+jailed	4
+earned	4
+annoyed	4
+shocked	4
+sentenced	4
+damned	4
+exploded	4
+wrapped	4
+suspended	4
+spoken	4
+fallen	4
+classified	4
+hidden	4
+displayed	4
+purchased	4
+offended	4
+commissioned	4
+hurt	4
+opposed	4
+armed	4
+trained	4
+colored	4
+knitted	4
+solved	4
+limited	4
+baked	3
+stripped	3
+detailed	3
+registered	3
+awarded	3
+impressed	3
+balanced	3
+bound	3
+connected	3
+recognized	3
+freed	3
+screwed	3
+unlocked	3
+delivered	3
+endorsed	3
+shaped	3
+crushed	3
+scheduled	3
+defeated	3
+resisted	3
+controlled	3
+combined	3
+punished	3
+condemned	3
+planned	3
+metered	3
+confiscated	3
+burned	3
+fascinated	3
+violated	3
+ignored	3
+predicted	3
+justified	3
+directed	3
+edited	3
+ground	3
+pleased	3
+defended	3
+contacted	3
+printed	3
+sponsored	3
+aired	3
+personalized	3
+occupied	3
+aged	3
+protected	3
+submitted	3
+depressed	3
+disciplined	3
+assaulted	3
+eliminated	3
+trapped	3
+recovered	3
+checked	3
+promoted	3
+timed	3
+shelved	3
+thrown	3
+laid	3
+entitled	3
+affected	3
+blocked	3
+crowded	3
+intended	3
+blacked	3
+sworn	3
+escaped	3
+confused	3
+said	3
+composed	3
+told	3
+hijacked	3
+legalized	3
+seized	3
+evicted	3
+
+
+
+
+
+
+
+
+
+
+VBZ - verb, present tense, 3rd person singular
+--------------------------------------------------
+says	105
+gets	88
+makes	61
+goes	40
+happens	34
+wants	33
+looks	32
+calls	30
+thinks	28
+shows	24
+knows	21
+gives	20
+takes	20
+dies	19
+wins	17
+tells	17
+comes	17
+seems	17
+asks	16
+finds	16
+refuses	16
+turns	16
+uses	15
+kills	15
+feels	13
+bans	12
+likes	12
+loses	12
+pays	12
+responds	11
+admits	11
+lies	11
+explains	10
+sees	10
+becomes	10
+passes	10
+supports	10
+breaks	10
+lets	10
+ensues	9
+searches	9
+loves	9
+announces	9
+adds	8
+walks	8
+deserves	8
+leaves	8
+sends	8
+speaks	8
+sues	8
+keeps	7
+drives	7
+buys	7
+starts	7
+requires	6
+meets	6
+threatens	6
+proves	6
+introduces	6
+opens	6
+donates	6
+creates	6
+allows	6
+owns	6
+stands	6
+exists	6
+represents	6
+joins	6
+writes	6
+spends	5
+includes	5
+holds	5
+reads	5
+resigns	5
+appears	5
+reveals	5
+continues	5
+provides	5
+saves	5
+tries	4
+grows	4
+suggests	4
+shuts	4
+moves	4
+decides	4
+complains	4
+confirms	4
+remembers	4
+sells	4
+removes	4
+proposes	4
+describes	4
+puts	4
+fails	4
+pulls	4
+exposes	4
+warns	4
+wishes	4
+offers	4
+throws	3
+steals	3
+approves	3
+damages	3
+violates	3
+beats	3
+insists	3
+builds	3
+accuses	3
+begins	3
+collapses	3
+delivers	3
+remains	3
+sits	3
+recognizes	3
+carries	3
+jumps	3
+wears	3
+misses	3
+agrees	3
+brings	3
+follows	3
+catches	3
+rejects	3
+scans	3
+helps	3
+plays	3
+argues	3
+
+
+
+
+
+
+
+
+
+
+. - sentence terminator
+--------------------------------------------------
+.	6687
+?	975
+!	875
+;	220
+
+
+
+
+
+
+
+
+
+
+NN - noun, singular, common
+--------------------------------------------------
+time	238
+year	223
+r	161
+friend	140
+guy	137
+us	136
+day	133
+work	126
+video	124
+man	121
+picture	119
+money	113
+police	108
+amp	102
+life	97
+support	95
+world	92
+post	89
+shit	88
+way	88
+use	86
+bill	77
+law	77
+girl	74
+government	72
+night	72
+thing	70
+dog	70
+wife	69
+school	69
+news	68
+i	64
+love	64
+page	60
+state	60
+tax	60
+game	60
+vote	60
+story	59
+morning	59
+front	57
+care	56
+name	54
+war	52
+response	51
+dad	50
+woman	50
+car	50
+phone	49
+job	48
+idea	47
+company	47
+t	47
+face	46
+house	46
+party	44
+health	44
+cancer	44
+site	43
+country	43
+gop	43
+family	42
+shot	42
+photo	42
+d	41
+tv	41
+person	40
+week	40
+letter	40
+end	40
+music	40
+computer	39
+link	39
+kid	39
+word	39
+system	38
+movie	38
+college	38
+birthday	38
+drug	37
+sex	37
+mom	37
+death	37
+water	37
+top	37
+problem	36
+image	36
+room	36
+class	35
+part	35
++	35
+protest	35
+book	34
+attention	34
+share	34
+place	34
+cat	34
+camera	33
+power	33
+x	33
+food	33
+marijuana	33
+officer	33
+science	32
+lot	31
+service	31
+daughter	31
+apple	30
+brother	30
+history	30
+speech	30
+hell	30
+city	30
+hand	30
+child	30
+re	30
+sister	29
+access	29
+store	29
+month	29
+oil	29
+change	29
+content	29
+office	29
+reason	28
+court	28
+past	28
+list	28
+prison	28
+cop	28
+uk	27
+couple	27
+ass	27
+case	27
+rage	27
+card	27
+son	27
+cost	27
+head	27
+mother	27
+student	26
+costume	26
+information	26
+search	26
+block	26
+debate	26
+sign	26
+brain	25
+hope	25
+control	25
+budget	25
+c	25
+research	25
+industry	25
+price	25
+order	25
+president	25
+record	24
+religion	24
+moment	24
+film	24
+fight	24
+message	24
+jail	24
+boy	24
+teacher	24
+team	24
+father	24
+election	24
+campaign	24
+baby	23
+age	23
+movement	23
+rest	23
+petition	23
+boss	23
+bank	23
+net	23
+street	23
+view	22
+attack	22
+line	22
+art	22
+number	22
+politics	22
+deal	22
+future	22
+mind	22
+arrest	21
+freedom	21
+body	21
+step	21
+point	21
+kind	21
+town	21
+difference	21
+song	21
+newspaper	21
+interview	21
+mail	21
+level	21
+judge	21
+answer	21
+credit	21
+church	20
+comment	20
+cause	20
+account	20
+shirt	20
+marriage	20
+building	20
+insurance	20
+fraud	20
+nation	20
+fbi	20
+weekend	20
+result	20
+ban	20
+bus	19
+amendment	19
+web	19
+bed	19
+click	19
+door	19
+action	19
+tea	19
+cash	19
+sound	19
+note	19
+security	19
+group	19
+text	18
+math	18
+charity	18
+user	18
+fun	18
+fire	18
+paper	18
+heart	18
+address	18
+beer	18
+bar	18
+report	18
+god	18
+light	17
+process	17
+customer	17
+hour	17
+side	17
+date	17
+evidence	17
+crowd	17
+gift	17
+piece	16
+pepper	16
+request	16
+plan	16
+self	16
+blood	16
+experience	16
+version	16
+middle	16
+p	16
+gun	16
+charge	16
+air	16
+censorship	16
+wedding	16
+percent	15
+fact	15
+quality	15
+act	15
+democracy	15
+torture	15
+question	15
+decision	15
+founder	15
+file	15
+business	15
+copy	15
+term	15
+spot	15
+choice	15
+roommate	15
+pizza	15
+drive	15
+voice	15
+campus	14
+wall	14
+privacy	14
+abuse	14
+crap	14
+gas	14
+meeting	14
+community	14
+gold	14
+trailer	14
+return	14
+style	14
+flash	14
+blackout	14
+detention	14
+reaction	14
+article	14
+window	14
+minute	14
+kitten	14
+ice	14
+o	14
+bathroom	14
+feeling	14
+force	14
+chance	13
+cake	13
+hair	13
+lunch	13
+joke	13
+stuff	13
+truth	13
+bunch	13
+poster	13
+bit	13
+cell	13
+advice	13
+boycott	13
+fall	13
+fan	13
+program	13
+table	13
+traffic	13
+doctor	13
+technology	13
+domain	13
+policy	13
+map	13
+piracy	13
+failure	13
+form	13
+legislation	13
+assault	13
+worker	13
+debt	13
+dc	13
+don	13
+matter	13
+machine	13
+feature	13
+adult	13
+education	12
+success	12
+press	12
+university	12
+crash	12
+proof	12
+earthquake	12
+restaurant	12
+sense	12
+grandfather	12
+ticket	12
+fellow	12
+neighbor	12
+deficit	12
+cartoon	12
+pot	12
+screen	12
+economy	12
+crisis	12
+reality	12
+floor	12
+tree	12
+murder	12
+spray	12
+footage	11
+position	11
+administration	11
+fear	11
+claim	11
+photograph	11
+release	11
+society	11
+holiday	11
+train	11
+neutrality	11
+flight	11
+park	11
+station	11
+plane	11
+design	11
+smile	11
+apartment	11
+dollar	11
+mass	11
+area	11
+driver	11
+situation	11
+artist	11
+crime	11
+sale	11
+motion	11
+increase	11
+space	11
+abortion	11
+trial	11
+box	11
+revolution	11
+chair	11
+total	11
+interest	11
+cousin	11
+radio	11
+attempt	11
+female	10
+universe	10
+audio	10
+evolution	10
+tape	10
+staff	10
+device	10
+animal	10
+challenge	10
+experiment	10
+income	10
+fund	10
+license	10
+opposition	10
+issue	10
+energy	10
+threat	10
+stick	10
+rate	10
+coverage	10
+idiot	10
+e	10
+violence	10
+duty	10
+review	10
+awareness	10
+profit	10
+visit	10
+reply	10
+test	10
+contact	10
+pirate	10
+population	10
+headline	10
+safety	10
+network	10
+pbs	10
+study	10
+hero	10
+sleep	10
+host	9
+pressure	9
+effect	9
+proposal	9
+author	9
+key	9
+knowledge	9
+enforcement	9
+bitch	9
+fee	9
+opinion	9
+justice	9
+exchange	9
+ge	9
+planet	9
+source	9
+demand	9
+majority	9
+trade	9
+eye	9
+airport	9
+nbc	9
+perspective	9
+cable	9
+infringement	9
+resolution	9
+road	9
+oh	9
+vacation	9
+custody	9
+killing	9
+husband	9
+pain	9
+language	9
+grandma	9
+course	9
+product	9
+textbook	9
+bottom	9
+candidate	9
+ocean	9
+amount	9
+union	9
+felony	9
+subject	9
+snow	9
+type	9
+strike	9
+hospital	9
+smoke	9
+buddy	9
+rule	8
+wing	8
+limit	8
+leader	8
+desk	8
+drink	8
+member	8
+co	8
+truck	8
+prank	8
+owner	8
+yard	8
+race	8
+department	8
+application	8
+influence	8
+suit	8
+favor	8
+faith	8
+vaccine	8
+creator	8
+enemy	8
+virus	8
+chart	8
+youth	8
+b	8
+hotel	8
+w	8
+alcohol	8
+generation	8
+foot	8
+scientist	8
+male	8
+v	8
+lawyer	8
+competition	8
+color	8
+concert	8
+gem	8
+ground	8
+television	8
+plastic	8
+rock	8
+figure	8
+employee	8
+memory	8
+appeal	8
+battle	8
+dance	8
+apology	8
+ship	8
+birth	8
+humanity	8
+photographer	8
+background	8
+aid	8
+argument	8
+accident	8
+nephew	8
+organization	8
+project	8
+ring	8
+coffee	8
+army	8
+reporter	8
+gain	7
+construction	7
+transfer	7
+journalist	7
+citizen	7
+contest	7
+waste	7
+incident	7
+genius	7
+reform	7
+visa	7
+robot	7
+tag	7
+honor	7
+separation	7
+bird	7
+button	7
+land	7
+epic	7
+scale	7
+bin	7
+y	7
+rig	7
+governor	7
+funeral	7
+portrait	7
+sea	7
+intelligence	7
+theft	7
+salary	7
+option	7
+ball	7
+spy	7
+developer	7
+welfare	7
+congress	7
+immunity	7
+lady	7
+treatment	7
+blow	7
+speed	7
+touch	7
+status	7
+reminder	7
+trick	7
+guitar	7
+donation	7
+animation	7
+pro	7
+season	7
+engineer	7
+monitor	7
+sacrifice	7
+clicking	7
+riot	7
+market	7
+baseball	7
+mile	7
+glass	7
+uncle	7
+dinner	7
+brutality	7
+bandwidth	7
+property	7
+board	7
+ignorance	7
+bag	7
+plate	7
+collapse	7
+size	7
+series	7
+crew	7
+hypocrisy	7
+lab	7
+example	7
+monster	7
+rescue	7
+brand	6
+documentary	6
+ballot	6
+authority	6
+candy	6
+slave	6
+edition	6
+corruption	6
+h	6
+supporter	6
+violation	6
+disease	6
+conversation	6
+material	6
+breast	6
+collection	6
+profile	6
+missile	6
+vehicle	6
+survey	6
+mainstream	6
+mosque	6
+prosecution	6
+freak	6
+alarm	6
+nutshell	6
+opponent	6
+garbage	6
+stem	6
+patient	6
+submission	6
+location	6
+firm	6
+load	6
+leg	6
+defense	6
+lion	6
+culture	6
+writer	6
+physics	6
+statement	6
+thread	6
+weight	6
+committee	6
+radiation	6
+register	6
+section	6
+clock	6
+lack	6
+trash	6
+airline	6
+moon	6
+audience	6
+model	6
+surveillance	6
+pilot	6
+engine	6
+poll	6
+notice	6
+label	6
+seat	6
+title	6
+shop	6
+pair	6
+track	6
+breakfast	6
+album	6
+sponsor	6
+pitch	6
+damage	6
+liquid	6
+chemical	6
+magazine	6
+discussion	6
+sake	6
+chicken	6
+subway	6
+graph	6
+suicide	6
+row	6
+football	6
+afternoon	6
+combat	6
+victim	6
+episode	6
+raid	6
+mistake	6
+conference	6
+kitchen	6
+coast	6
+bomb	6
+chest	6
+comic	6
+bicycle	6
+hearing	6
+grade	6
+surprise	6
+spider	6
+meal	6
+risk	6
+hole	6
+liberty	6
+junk	5
+ink	5
+delivery	5
+exposure	5
+spiral	5
+strategy	5
+promise	5
+puppy	5
+kick	5
+executive	5
+lobby	5
+practice	5
+lifetime	5
+surface	5
+laugh	5
+approval	5
+ability	5
+closet	5
+tire	5
+decade	5
+volume	5
+min	5
+clip	5
+explanation	5
+beard	5
+monkey	5
+measure	5
+auto	5
+hobby	5
+agenda	5
+sugar	5
+stance	5
+scratch	5
+sort	5
+library	5
+doubt	5
+congressman	5
+zombie	5
+benefit	5
+wage	5
+ray	5
+century	5
+pound	5
+decline	5
+degree	5
+activity	5
+grocery	5
+relationship	5
+master	5
+statue	5
+bumper	5
+soccer	5
+dream	5
+species	5
+dress	5
+airplane	5
+teen	5
+method	5
+sand	5
+celebrity	5
+horror	5
+pool	5
+shelter	5
+cbs	5
+bullet	5
+strip	5
+communication	5
+sanity	5
+stranger	5
+summer	5
+reward	5
+fruit	5
+director	5
+pat	5
+helmet	5
+soil	5
+mark	5
+senator	5
+contract	5
+explosion	5
+outrage	5
+average	5
+equipment	5
+inventor	5
+district	5
+vision	5
+training	5
+equality	5
+hall	5
+facility	5
+designer	5
+winter	5
+topic	5
+soul	5
+cap	5
+behalf	5
+effort	5
+winner	5
+badge	5
+blast	5
+trouble	5
+environment	5
+concept	5
+role	5
+tip	5
+editor	5
+basketball	5
+rain	5
+patent	5
+mouse	5
+player	5
+protection	5
+grandmother	5
+disaster	5
+storm	5
+mouth	5
+bridge	5
+banning	5
+luck	5
+band	5
+keyboard	5
+feedback	5
+shame	5
+punishment	5
+nail	5
+solution	5
+voter	5
+star	4
+squirrel	4
+bug	4
+sequel	4
+weather	4
+sweat	4
+hurricane	4
+garage	4
+lake	4
+sky	4
+command	4
+paycheck	4
+tsunami	4
+autism	4
+value	4
+respect	4
+career	4
+instant	4
+organ	4
+bedroom	4
+affair	4
+pipe	4
+courtesy	4
+angle	4
+bee	4
+cartoonist	4
+manipulation	4
+shell	4
+mate	4
+cage	4
+orange	4
+labor	4
+earth	4
+marrow	4
+comedy	4
+forest	4
+sir	4
+contempt	4
+slip	4
+f	4
+trail	4
+possession	4
+cloud	4
+defeat	4
+dispensary	4
+pledge	4
+gang	4
+code	4
+peace	4
+flow	4
+camp	4
+un	4
+silence	4
+complaint	4
+shape	4
+edge	4
+tobacco	4
+assignment	4
+development	4
+sesame	4
+belt	4
+village	4
+connection	4
+solo	4
+basement	4
+circle	4
+penalty	4
+impact	4
+beginning	4
+heroin	4
+horse	4
+mathematician	4
+evening	4
+taxpayer	4
+responsibility	4
+plant	4
+phrase	4
+fundamentalist	4
+mall	4
+fortune	4
+base	4
+soldier	4
+tribute	4
+anniversary	4
+sun	4
+neighborhood	4
+dinosaur	4
+condition	4
+rubber	4
+cream	4
+taste	4
+grass	4
+fish	4
+wolf	4
+tower	4
+relief	4
+minister	4
+tiger	4
+pop	4
+mortgage	4
+surgery	4
+printer	4
+zoo	4
+veteran	4
+anger	4
+gathering	4
+janitor	4
+invasion	4
+irony	4
+resignation	4
+killer	4
+loophole	4
+platform	4
+switch	4
+club	4
+offense	4
+agent	4
+chip	4
+cab	4
+wealth	4
+shift	4
+constitution	4
+terror	4
+zone	4
+vet	4
+manager	4
+chain	4
+tie	4
+trip	4
+mold	4
+tennis	4
+humor	4
+dignity	4
+shadow	4
+boat	4
+grader	4
+opportunity	4
+tissue	4
+backlash	4
+oath	4
+climate	4
+discovery	4
+scorn	4
+testing	4
+steam	4
+screening	4
+sentence	4
+menu	4
+professor	4
+rap	4
+target	4
+cereal	4
+tool	4
+ceiling	4
+toy	4
+purpose	4
+struggle	4
+laboratory	4
+bone	4
+victory	4
+mayor	4
+windshield	4
+greed	4
+diagram	4
+beauty	4
+beach	4
+era	4
+cocaine	4
+celebration	4
+wreck	4
+pastor	3
+illusion	3
+detail	3
+pig	3
+pie	3
+brush	3
+commitment	3
+abstinence	3
+stage	3
+happiness	3
+skill	3
+dose	3
+rocket	3
+center	3
+balloon	3
+bull	3
+trademark	3
+lawsuit	3
+outfit	3
+importance	3
+progress	3
+nightmare	3
+wire	3
+joint	3
+prohibition	3
+cube	3
+piano	3
+soap	3
+gravity	3
+bastard	3
+screw	3
+border	3
+compensation	3
+gear	3
+scene	3
+payroll	3
+dictionary	3
+witness	3
+mode	3
+slide	3
+kindness	3
+sword	3
+nostalgia	3
+decay	3
+quake	3
+counter	3
+da	3
+serial	3
+lock	3
+tab	3
+drill	3
+package	3
+parliament	3
+panel	3
+frog	3
+consumption	3
+scandal	3
+poverty	3
+exercise	3
+mural	3
+shock	3
+gender	3
+spoon	3
+nose	3
+fighter	3
+structure	3
+transport	3
+invalid	3
+rainbow	3
+skull	3
+immigration	3
+lesson	3
+nonsense	3
+mirror	3
+sight	3
+palm	3
+senate	3
+parade	3
+march	3
+tablet	3
+ambassador	3
+entry	3
+cheer	3
+maker	3
+analysis	3
+cement	3
+bonus	3
+literature	3
+conflict	3
+error	3
+patriotism	3
+context	3
+prescription	3
+aircraft	3
+shower	3
+cry	3
+banner	3
+courage	3
+permission	3
+publicity	3
+ruin	3
+barrel	3
+cigarette	3
+gym	3
+chairman	3
+couch	3
+aaa	3
+rifle	3
+feed	3
+heartbeat	3
+sidewalk	3
+fiber	3
+event	3
+operation	3
+friendship	3
+inch	3
+existence	3
+pleasure	3
+broadcasting	3
+meat	3
+faculty	3
+sandwich	3
+goat	3
+goal	3
+paragraph	3
+legend	3
+tolerance	3
+contrast	3
+sub	3
+belief	3
+investment	3
+invention	3
+rogue	3
+blockade	3
+premium	3
+presentation	3
+tail	3
+removal	3
+dish	3
+spacecraft	3
+liar	3
+m	3
+field	3
+credibility	3
+default	3
+integration	3
+stone	3
+comparison	3
+manufacturer	3
+slaughter	3
+tube	3
+miracle	3
+execution	3
+pill	3
+instrument	3
+hint	3
+bottle	3
+theater	3
+refusal	3
+purse	3
+margin	3
+cast	3
+spirit	3
+helicopter	3
+period	3
+tour	3
+supermarket	3
+parent	3
+import	3
+concern	3
+landlord	3
+routine	3
+wood	3
+corner	3
+moderator	3
+rating	3
+axe	3
+sunset	3
+performance	3
+marathon	3
+broadcast	3
+sheet	3
+revenue	3
+possibility	3
+theory	3
+investigation	3
+factory	3
+sunrise	3
+breakthrough	3
+receipt	3
+square	3
+quarter	3
+kkk	3
+farmer	3
+worship	3
+haircut	3
+stress	3
+nomination	3
+clothing	3
+pumpkin	3
+soup	3
+ibm	3
+suggestion	3
+understanding	3
+makeup	3
+transportation	3
+sigh	3
+elephant	3
+actor	3
+regime	3
+propaganda	3
+crystal	3
+heat	3
+presence	3
+plug	3
+core	3
+tornado	3
+billboard	3
+hat	3
+teenager	3
+thc	3
+demonstration	3
+cant	3
+conspiracy	3
+tank	3
+dash	3
+trust	3
+tone	3
+logic	3
+cow	3
+nature	3
+approach	3
+capacity	3
+theme	3
+queen	3
+consumer	3
+aunt	3
+metal	3
+prostitute	3
+reelection	3
+niece	3
+spectrum	3
+k	3
+realization	3
+festival	3
+veto	3
+medicine	3
+telescope	3
+bread	3
+rental	3
+production	3
+consent	3
+interpretation	3
+diary	3
+poker	3
+gate	3
+stupidity	3
+travel	3
+ceremony	3
+artillery	3
+household	3
+fortress	3
+agreement	3
+confidence	3
+prize	3
+rise	3
+captain	3
+
+
+
+
+
+
+
+
+
+
+NP - noun, singular, proper
+--------------------------------------------------
+paul	80
+america	77
+u	75
+congress	75
+s	75
+ama	63
+christmas	60
+bill	60
+ron	58
+fox	55
+god	46
+guy	46
+stewart	44
+t	42
+al	38
+jon	38
+republican	36
+iraq	35
+bush	33
+sarah	30
+china	29
+john	27
+canada	27
+japan	27
+steve	27
+glenn	26
+california	26
+beck	25
+egypt	24
+george	23
+michael	23
+stephen	22
+gay	21
+perry	21
+halloween	21
+e	19
+amazon	18
+russia	17
+texas	17
+iran	17
+louis	17
+conan	16
+florida	16
+smith	15
+black	15
+julian	15
+f	15
+washington	14
+london	14
+sweden	14
+wisconsin	14
+india	14
+james	13
+norway	13
+richard	13
+australia	12
+neil	12
+israel	12
+harry	12
+clinton	11
+jimmy	11
+tyson	11
+mars	11
+hitler	11
+april	11
+germany	11
+david	11
+january	11
+scott	11
+dennis	11
+australian	11
+k	11
+baptist	10
+gates	10
+mark	10
+europe	10
+san	10
+hollywood	10
+potter	10
+davis	10
+november	10
+anthony	9
+joe	9
+korea	9
+michigan	9
+alan	9
+jesus	9
+warner	9
+iowa	9
+may	9
+bible	9
+saudi	9
+ryan	9
+christianity	8
+santa	8
+cleveland	8
+italy	8
+spain	8
+christopher	8
+mario	8
+b	8
+july	8
+w	8
+matt	8
+warren	8
+bob	8
+chicago	8
+bernie	8
+democrat	8
+jack	8
+britain	7
+l	7
+colorado	7
+donald	7
+lucas	7
+vermont	7
+tennessee	7
+ken	7
+sean	7
+manning	7
+rich	7
+jan	7
+dick	7
+tech	7
+herman	7
+scotland	7
+nazi	7
+friend	7
+hard	7
+cool	7
+jones	6
+chris	6
+william	6
+francisco	6
+eric	6
+lieberman	6
+june	6
+page	6
+virginia	6
+alabama	6
+kelly	6
+charlie	6
+boston	6
+n	6
+arnold	6
+louisiana	6
+ireland	6
+roger	6
+bruce	6
+tom	6
+carl	6
+frank	6
+alaska	6
+detroit	6
+jim	6
+grayson	6
+winter	6
+phone	6
+penn	6
+khan	6
+madison	6
+cooper	5
+jesse	5
+russ	5
+gore	5
+mississippi	5
+bond	5
+lincoln	5
+rebecca	5
+easter	5
+hobbes	5
+amy	5
+koch	5
+portugal	5
+child	5
+monk	5
+ventura	5
+rush	5
+mobile	5
+ben	5
+finland	5
+ohio	5
+robert	5
+bradley	5
+cairo	5
+green	5
+mac	5
+december	5
+oregon	5
+brown	5
+worth	5
+paris	5
+cameron	5
+oklahoma	4
+phoenix	4
+illinois	4
+calvin	4
+vatican	4
+lynn	4
+low	4
+anderson	4
+los	4
+gary	4
+angeles	4
+thailand	4
+olsen	4
+willis	4
+alexis	4
+chuck	4
+adams	4
+phelps	4
+march	4
+forbes	4
+speed	4
+damon	4
+pm	4
+teddy	4
+pakistan	4
+met	4
+brazil	4
+mubarak	4
+dow	4
+goodwill	4
+rogers	4
+don	4
+freddie	4
+moscow	4
+toronto	4
+hillary	4
+williams	4
+muhammad	4
+rachel	4
+gordon	4
+g	4
+arizona	4
+daniel	4
+jackson	4
+sears	4
+gun	4
+denmark	4
+eisenhower	4
+wales	4
+cruise	4
+rand	4
+watson	4
+elizabeth	4
+sir	4
+morgan	4
+indiana	4
+france	4
+africa	4
+gene	4
+bird	4
+christ	4
+dodd	4
+hawaii	4
+rob	4
+walker	3
+adam	3
+massachusetts	3
+manhattan	3
+tim	3
+wheaton	3
+lemon	3
+johnny	3
+moore	3
+flip	3
+october	3
+coke	3
+nixon	3
+sept	3
+jennings	3
+nicaragua	3
+peter	3
+webb	3
+patrick	3
+utah	3
+ross	3
+app	3
+indonesia	3
+dylan	3
+afghan	3
+harris	3
+o'brien	3
+arabia	3
+eve	3
+atlanta	3
+dave	3
+isaac	3
+mike	3
+java	3
+malcolm	3
+islam	3
+greg	3
+ralph	3
+grace	3
+minnesota	3
+maine	3
+lewis	3
+thomas	3
+wells	3
+cantor	3
+ray	3
+antarctica	3
+bohemian	3
+nigeria	3
+ted	3
+palestine	3
+bologna	3
+mercury	3
+austin	3
+syria	3
+lawrence	3
+fargo	3
+arkansas	3
+wayne	3
+february	3
+ritchie	3
+oxford	3
+kong	3
+murray	3
+september	3
+nancy	3
+johnson	3
+danny	3
+oslo	3
+rice	3
+connecticut	3
+pick	3
+franklin	3
+shooter	3
+sue	3
+roy	3
+kitty	3
+jason	3
+
+
+
+
+
+
+
+
+
+
+NR - noun, singular, adverbial
+--------------------------------------------------
+today	254
+home	74
+yesterday	38
+tonight	28
+tomorrow	19
+friday	17
+sunday	12
+thursday	9
+monday	9
+saturday	9
+wednesday	6
+downtown	5
+
+
+
+
+
+
+
+
+
+
+MD* - modal auxillary, negated
+--------------------------------------------------
+can't	89
+won't	31
+wouldn't	19
+cannot	16
+shouldn't	14
+couldn't	12
+
+
+
+
+
+
+
+
+
+
+CC - conjunction, coordinating
+--------------------------------------------------
+and	2228
+but	317
+or	203
+either	7
+neither	4
+plus	4
+
+
+
+
+
+
+
+
+
+
+OD-TL - numeral, ordinal titles
+--------------------------------------------------
+first	38
+third	7
+14th	5
+
+
+
+
+
+
+
+
+
+
+CD - numeral, cardinal
+--------------------------------------------------
+one	346
+1	148
+2	119
+two	118
+3	110
+10	101
+5	81
+4	70
+11	64
+9	63
+million	61
+30	52
+8	52
+20	52
+6	48
+100	44
+15	39
+0	38
+12	36
+three	34
+50	34
+18	33
+7	29
+billion	28
+25	26
+40	24
+four	24
+13	22
+five	21
+19	20
+14	20
+500	20
+six	19
+ten	19
+17	17
+60	17
+21	17
+80	16
+70	15
+35	15
+24	15
+16	14
+90	14
+200	13
+36	13
+trillion	13
+300	13
+eight	12
+22	12
+72	11
+250	11
+360	11
+45	11
+27	10
+2000	8
+75	8
+1000	8
+31	8
+95	8
+65	7
+29	7
+23	7
+74	6
+48	6
+600	6
+nine	6
+98	6
+thousand	6
+hundred	6
+28	6
+77	5
+46	5
+sixty	5
+zero	5
+eleven	5
+33	5
+05	5
+400	5
+26	5
+71	4
+140	4
+43	4
+42	4
+seven	4
+1981	4
+69	4
+64	4
+73	4
+37	4
+32	4
+39	4
+85	4
+87	4
+86	4
+81	4
+82	4
+51	4
+120	4
+76	3
+150	3
+650	3
+1980	3
+68	3
+67	3
+61	3
+270	3
+700	3
+66	3
+57	3
+54	3
+55	3
+59	3
+133	3
+sixteen	3
+96	3
+1949	3
+
+
+
+
+
+
+
+
+
+
+PPS+MD - pronoun, personal, nominative, 3rd person singular + modal auxillary
+--------------------------------------------------
+it'll	5
+he'll	3
+she'll	3
+
+
+
+
+
+
+
+
+
+
+CS - conjunction, subordinating
+--------------------------------------------------
+that	967
+as	429
+if	389
+like	367
+than	186
+because	152
+while	108
+before	106
+since	53
+until	38
+though	15
+whether	9
+unless	6
+
+
+
+
+
+
+
+
+
+
+NP-TL - noun, singular, proper titles
+--------------------------------------------------
+vs	49
+oakland	20
+york	19
+lamar	11
+mexico	11
+cain	9
+vietnam	9
+nobel	9
+zealand	8
+carolina	8
+bell	7
+j	5
+abc	5
+savage	5
+jersey	4
+berkeley	4
+yorker	4
+ms	3
+job	3
+miami	3
+netherlands	3
+arab	3
+mormon	3
+boulder	3
+il	3
+libyan	3
+
+
+
+
+
+
+
+
+
+
+JJT - adjective, superlative
+--------------------------------------------------
+best	170
+worst	36
+biggest	21
+largest	21
+greatest	19
+latest	11
+coolest	8
+newest	6
+finest	6
+funniest	5
+richest	4
+highest	4
+wealthiest	3
+happiest	3
+lowest	3
+strangest	3
+oldest	3
+
+
+
+
+
+
+
+
+
+
+JJS - adjective, semantically superlative
+--------------------------------------------------
+main	13
+top	11
+chief	9
+principal	3
+
+
+
+
+
+
+
+
+
+
+JJR - adjective, comparative
+--------------------------------------------------
+better	60
+worse	14
+bigger	11
+earlier	9
+higher	7
+safer	6
+younger	5
+greater	5
+darker	4
+larger	4
+older	4
+cheaper	4
+easier	4
+stronger	3
+happier	3
+lower	3
+
+
+
+
+
+
+
+
+
+
+JJ-TL - adjective titles
+--------------------------------------------------
+new	94
+white	32
+old	28
+happy	23
+canadian	22
+supreme	21
+holy	19
+north	18
+public	18
+national	18
+big	18
+democratic	13
+little	13
+great	13
+daily	11
+free	11
+federal	11
+medical	10
+korean	10
+long	10
+west	10
+golden	10
+red	10
+real	10
+israeli	9
+military	8
+international	8
+dark	8
+human	8
+merry	7
+blue	7
+presidential	7
+young	7
+pure	6
+middle	6
+high	6
+universal	6
+beautiful	6
+future	6
+final	6
+sweet	6
+civil	6
+prime	6
+east	6
+memorial	5
+dutch	5
+gold	5
+original	4
+senior	4
+grand	4
+central	4
+special	4
+congressional	4
+mad	3
+southern	3
+wild	3
+solar	3
+western	3
+electronic	3
+weird	3
+social	3
+fair	3
+joint	3
+orthodox	3
+fine	3
+
+
+
+
+
+
+
+
+
+
+VBG-TL - verb, present participle or gerund titles
+--------------------------------------------------
+trying	5
+sleeping	5
+marketing	5
+dying	4
+fighting	4
+working	4
+selling	4
+waiting	3
+
+
+
+
+
+
+
+
+
+
+None - Unidentified
+--------------------------------------------------
+"	1454
+...	949
+reddit	658
+pic	285
+."	277
+$	265
+’	198
+sopa	188
+obama	181
+internet	179
+000	144
+til	129
+google	118
+%	113
+s	106
+upvote	86
+..	86
+fucking	83
+facebook	83
+wikileaks	79
+....	77
+*	68
+wtf	64
+redditors	62
+".	57
+occupy	56
+“	55
+website	52
+youtube	50
+?"	48
+palin	47
+the	47
+tsa	47
+iama	47
+girlfriend	45
+found	45
+not	42
+pics	40
+video	39
+rick	38
+online	36
+cnn	35
+pipa	34
+redditor	33
+rep	33
+copyright	33
+to	33
+godaddy	32
+protesters	31
+email	31
+rage	31
+mr	30
+colbert	30
+).	30
+”	29
+",	29
+ip	29
+this	29
+!"	28
+vote	28
+=	27
+twitter	27
+scumbag	27
+—	27
+),	27
+websites	26
+breaking	26
+!!!	26
+atheism	26
+,"	26
+anonymous	26
+2012	26
+2011	26
+at	26
+troll	26
+awesome	26
+gif	25
+!!	25
+..."	24
+amazing	24
+atheist	24
+minecraft	23
+it	23
+assange	23
+#	23
+ndaa	22
+upvotes	22
+ea	22
+2010	22
+acta	21
+.....	21
+shit	21
+comcast	21
+etc	21
+‘	21
+bachmann	20
+lt	20
+videos	20
+marijuana	20
+fuck	20
+dude	20
+4chan	20
+?!	20
+logo	20
+badass	20
+mccain	20
+terrorism	20
+wikipedia	20
+porn	19
+zach	19
+is	19
+romney	19
+software	19
+you	19
+megaupload	19
+boyfriend	19
+seriously	19
+:)	19
+reddit's	19
+fox	19
+digg	18
+vid	18
+verizon	17
+karma	17
+–	17
+skyrim	17
+ಠ_ಠ	17
+legalize	17
+.'	17
+update	17
+.”	17
+microsoft	17
+gingrich	17
+ows	16
+bbc	16
+sony	16
+all	16
+no	16
+!)	16
+nyc	16
+usa	15
+ny	15
+protect	15
+download	15
+nintendo	15
+co	15
+npr	15
+subreddit	15
+sen	15
+westboro	14
+epic	14
+sucks	14
+org	14
+posting	14
+click	14
+uc	14
+kucinich	14
+obama's	14
+chrome	14
+rally	13
+michele	13
+circlejerk	13
+portal	13
+"...	13
+nypd	13
+santorum	13
+m	13
+barack	13
+that	13
+mpaa	13
+classy	13
+bp	13
+xpost	13
+franken	13
+libya	13
+gmail	12
+asshole	12
+prop	12
+of	12
+ok	12
+birthday	12
+iphone	12
+deleted	12
+fucked	12
+fixed	12
+trolling	12
+afghanistan	12
+batman	12
+isp	12
+arrested	12
+ve	12
+lol	12
+ceo	12
+media	12
+now	12
+laden	12
+o'reilly	12
+firefox	12
+netflix	12
+petition	12
+cops	12
+riaa	11
+1st	11
+jazeera	11
+drugs	11
+my	11
+la	11
+planet	11
+legalization	11
+in	11
+lost	11
+url	11
+healthcare	11
+gt	11
+yr	11
+paypal	11
+xbox	11
+indie	11
+onion	11
+homeless	11
+anti	11
+spam	11
+:(	11
+terrorist	11
+craigslist	11
+gaming	11
+mitt	10
+%,	10
+nasa	10
+what	10
+piracy	10
+lets	10
+lobbyists	10
+mod	10
+billion	10
+ents	10
+info	10
+.)	10
+weiner	10
+photoshop	10
+frontpage	10
+??	10
+turns	10
+repost	10
+dr	10
+kim	10
+bike	10
+grandpa	10
+up	10
+downloading	10
+protester	10
+for	10
+fail	10
+alien	9
+nailed	9
+windows	9
+amaa	9
+isps	9
+medicare	9
+blog	9
+and	9
+newt	9
+haiti	9
+ipad	9
+imgur	9
+2008	9
+bin	9
+xkcd	9
+spice	9
+msnbc	9
+insider	9
+id	9
+00	9
+drm	9
+hosting	9
+parenting	9
+smbc	9
+trailer	9
+ck	9
+browser	9
+wi	9
+!!!!	9
+**	9
+scientology	9
+osama	9
+movie	9
+keanu	9
+million	9
+pre	9
+holy	9
+murdoch	8
+~	8
+pirated	8
+on	8
+hacker	8
+laptop	8
+censorship	8
+disney	8
+@	8
+shuttle	8
+%.	8
+dae	8
+…	8
+2009	8
+2005	8
+2007	8
+galifianakis	8
+absolutely	8
+hannity	8
+guantanamo	8
+shark	8
+founder	8
+personhood	8
+borders	8
+blacklist	8
+bailout	8
+boehner	8
+degrasse	8
+omg	8
+emails	8
+rupert	8
+sanders	8
+wow	8
+gps	8
+help	8
+boycott	8
+time	8
+comics	8
+protestors	8
+humble	8
+pizza	8
+aka	8
+ca	8
+90's	8
+hilarious	8
+uploaded	8
+iranian	8
+cannabis	8
+subway	8
+shoots	8
+lego	8
+yahoo	8
+own	7
+out	7
+wyden	7
+patriot	7
+limbaugh	7
+rip	7
+v	7
+reminder	7
+reuters	7
+pot	7
+trump	7
+"?	7
+wanted	7
+!?	7
+pepper	7
+like	7
+legit	7
+homeowner	7
+sfw	7
+3d	7
+penis	7
+slams	7
+oatmeal	7
+alright	7
+pac	7
+f7u12	7
+themed	7
+ban	7
+reagan	7
+never	7
+ever	7
+crosspost	7
+dems	7
+|	7
+grylls	7
+gf	7
+...[	7
+okcupid	7
+your	7
+desktop	7
+fb	7
+ex	7
+ed	7
+jong	7
+sticker	7
+1998	7
+bro	7
+jesus	7
+valve	7
+redditor's	7
+shitty	7
+walmart	7
+gabe	7
+destroys	7
+911	7
+putin	7
+one	7
+massive	7
+vancouver	7
+creepiest	7
+kids	7
+whale	6
+feingold	6
+saddest	6
+photoshopped	6
+wwii	6
+dwb	6
+prof	6
+hiv	6
+notch	6
+mastercard	6
+???	6
+simpsons	6
+_	6
+":	6
+ultimate	6
+mt	6
+me	6
+geico	6
+hate	6
+justin	6
+coworker	6
+whistleblower	6
+stock	6
+blizzard	6
+2004	6
+chomsky	6
+please	6
+dont	6
+god	6
+censor	6
+emailed	6
+guys	6
+nyt	6
+lobbying	6
+iraqi	6
+delete	6
+lies	6
+govt	6
+im	6
+07	6
+ha	6
+filesharing	6
+nytimes	6
+win	6
+pornography	6
+dvd	6
+doesn	6
+launch	6
+blackout	6
+eu	6
+?)	6
+we	6
+palestinian	6
+nasa's	6
+does	6
+fedex	6
+password	6
+web	6
+assholes	6
+illegal	6
+cia	6
+link	6
+scam	6
+cheney	6
+upvoting	6
+st	6
+mascot	6
+battlefield	6
+tech	6
+horrific	5
+console	5
+reeves	5
+overturn	5
+genius	5
+84	5
+holiday	5
+usb	5
+usd	5
+allowing	5
+users	5
+mcdonald's	5
+goldman	5
+passes	5
+wifi	5
+racist	5
+hipster	5
+downloads	5
+50k	5
+poll	5
+freshman	5
+legalizing	5
+released	5
+pokemon	5
+millionaires	5
+riot	5
+breaks	5
+gave	5
+proposes	5
+html5	5
+boss	5
+corrupt	5
+rant	5
+gov	5
+captcha	5
+tb	5
+every	5
+introduces	5
+bush's	5
+request	5
+waterboarding	5
+subreddits	5
+2001	5
+waterboarded	5
+from	5
+understand	5
+ticketmaster	5
+theft	5
+idiots	5
+bullied	5
+inception	5
+dragon	5
+dec	5
+megyn	5
+diablo	5
+zelda	5
+safe	5
+firewall	5
+dick	5
+cuts	5
+finally	5
+died	5
+sagan	5
+?!?!	5
+just	5
+gervais	5
+shame	5
+stop	5
+bahrain	5
+aids	5
+parrot	5
+lesbian	5
+protest	5
+samsung	5
+aclu	5
+hd	5
+hp	5
+lulzsec	5
+thats	5
+dudes	5
+restore	5
+admin	5
+ricky	5
+ordered	5
+gamestop	5
+database	5
+user	5
+brilliant	5
+anon	5
+mega	5
+won	5
+takei	5
+globes	5
+ultra	5
+carlin	5
+viral	5
+psn	5
+ps3	5
+?!?	5
+yip	5
+heroes	5
+sincerely	5
+responders	5
+josh	5
+chatroulette	5
+buffett	5
+do	5
+!!!!!	5
+nigerian	5
+upload	5
+matrix	5
+ﾟヮﾟ	5
+footage	5
+gays	5
+prank	5
+animal	5
+magic	5
+torture	5
+bethesda	5
+pdf	5
+condom	5
+tv	5
+threatens	5
+hilarity	5
+homosexuality	5
+admins	5
+turned	5
+\	5
+sc	5
+so	5
+sh	5
+logos	5
+perry's	5
+felony	5
+oprah	5
+telecom	5
+i'm	5
+bittorrent	5
+i've	4
+crappy	4
+dlc	4
+democrats	4
+89	4
+unbelievable	4
+nfl	4
+republican	4
+taco	4
+rape	4
+dad's	4
+nast	4
+warning	4
+penguin	4
+pirating	4
+finds	4
+],	4
+are	4
+optical	4
+option	4
+$.	4
+scientist	4
+ted	4
+rats	4
+includes	4
+detainees	4
+racism	4
+or	4
+'the	4
+grandfather's	4
+billionaires	4
+robotics	4
+bought	4
+fcc	4
+superman	4
+trillion	4
+reposts	4
+yup	4
+zuckerberg	4
+boobs	4
+moms	4
+clone	4
+bribery	4
+goes	4
+vladimir	4
+artwork	4
+fox's	4
+komen	4
+occupywallstreet	4
+rhino	4
+brutality	4
+")	4
+planking	4
+dept	4
+gamer	4
+news	4
+watch	4
+sunglasses	4
+whitehouse	4
+snowman	4
+rap	4
+smart	4
+protecting	4
+gaza	4
+it's	4
+aquarium	4
+joke	4
+maddow	4
+mit	4
+have	4
+://	4
+day	4
+ll	4
+ea's	4
+iii	4
+cern	4
+vlc	4
+2006	4
+neutrality	4
+google's	4
+dare	4
+schwarzenegger	4
+wrongfully	4
+restart	4
+ebert	4
+giant	4
+newell	4
+motherfucker	4
+needs	4
+dea	4
+mozilla	4
+texting	4
+90s	4
+lawyer	4
+infographic	4
+murdoch's	4
+leaked	4
+raptor	4
+server	4
+decriminalization	4
+improv	4
+speech	4
+coca	4
+braff	4
+hardcore	4
+get	4
+quran	4
+gamers	4
+killed	4
+killer	4
+kimmel	4
+ohanian	4
+diy	4
+did	4
+ww2	4
+destroy	4
+bloomberg	4
+meetup	4
+il	4
+01	4
+olbermann	4
+desist	4
+mini	4
+silly	4
+revenge	4
+debit	4
+call	4
+even	4
+swag	4
+pr	4
+http	4
+mythbusters	4
+tabs	4
+bieber	4
+blogger	4
+timer	4
+activist	4
+entertainment	4
+fart	4
+providers	4
+.......	4
+politicians	4
+...(	4
+.,	4
+block	4
+palin's	4
+.."	4
+guide	4
+reddiquette	4
+ninja	4
+hobbit	4
+☜)☜(	4
+authorization	4
+lurker	4
+month	4
+boing	4
+poop	4
+lot	4
+hacks	4
+real	4
+stickers	4
+voicemail	4
+tehran	4
+shows	4
+cola	4
+can	4
+tetris	4
+condoms	4
+rapist	4
+obamacare	4
+global	4
+true	4
+wal	4
+adblock	4
+bunny	4
+punctuation	4
+sachs	4
+......	4
+officially	4
+monsanto	4
+downvoted	4
+superhero	4
+creationism	4
+impeachment	4
+printers	4
+asylum	4
+*.	4
+scammer	4
+motorcycle	4
+downvote	4
+texted	4
+ago	4
+servers	4
+legalise	4
+hometown	4
+homeland	4
+allegiance	4
+insane	4
+really	4
+greenwald	4
+lobbyist	4
+`	4
+bros	4
+ctrl	4
+single	4
+considers	4
+xmas	4
+disconnect	4
+kanye	4
+?”	4
+fps	4
+,”	4
+introducing	4
+jeopardy	4
+exact	4
+chemo	4
+right	4
+debt	4
+manson	4
+best	4
+iam	4
+how	4
+dorm	4
+rhapsody	3
+incredible	3
+cake	3
+apps	3
+promise	3
+tumblr	3
+know	3
+boop	3
+stunning	3
+will	3
+job	3
+exam	3
+truer	3
+prosecute	3
+why	3
+tldr	3
+techcrunch	3
+kbr	3
+light	3
+tahrir	3
+fey	3
+app	3
+£	3
+darknet	3
+hdmi	3
+scroll	3
+leaf	3
+girlfriends	3
+files	3
+entitlement	3
+loseit	3
+vaccine	3
+fuckin'	3
+prom	3
+dvds	3
+pc	3
+nader	3
+threats	3
+mom's	3
+viagra	3
+stfu	3
+outrageous	3
+throws	3
+effect	3
+legend	3
+***	3
+ali	3
+spoilers	3
+ign	3
+costco	3
+everyone	3
+op	3
+douchebag	3
+fridge	3
+kills	3
+blow	3
+captured	3
+subscriber	3
+any	3
+computer	3
+huh	3
+season	3
+unpaid	3
+lawmaker	3
+100s	3
+hacked	3
+shouldn't	3
+100k	3
+gizmodo	3
+geeks	3
+cashier	3
+msm	3
+buscemi	3
+trent	3
+masturbate	3
+tolkien	3
+neighbors	3
+longer	3
+removed	3
+wireless	3
+cinsere	3
+christmas	3
+everything	3
+tutorial	3
+dads	3
+dadt	3
+uploading	3
+republicans	3
+bathroom	3
+duck	3
+leaking	3
+priorities	3
+pcip	3
+magnets	3
+cain's	3
+img	3
+turing	3
+riots	3
+changed	3
+razer	3
+browsers	3
+trolled	3
+tweet	3
+news'	3
+firefighter	3
+boyfriend's	3
+seth	3
+shitting	3
+multi	3
+fukushima	3
+busted	3
+moderators	3
+facepalm	3
+firefly	3
+eavesdrop	3
+luigi	3
+account	3
+apple's	3
+laden's	3
+2002	3
+leno	3
+favourite	3
+nsa	3
+patient	3
+extremist	3
+back	3
+passwords	3
+nukem	3
+expert	3
+toddlers	3
+screenshots	3
+programmers	3
+filesonic	3
+comic	3
+uhh	3
+maps	3
+hour	3
+chimpanzee	3
+two	3
+surfer	3
+tattoos	3
+burger	3
+foxnews	3
+hugely	3
+cables	3
+banksy	3
+sudan	3
+mcdonald	3
+bang	3
+totally	3
+pax	3
+^	3
+laptops	3
+jfk	3
+declares	3
+affordable	3
+pedophiles	3
+tweets	3
+seizing	3
+shield	3
+cute	3
+man	3
+agent	3
+perp	3
+earthquake	3
+makeup	3
+accidentally	3
+1992	3
+apeshit	3
+smartphone	3
+gorilla	3
+haha	3
+reznor	3
+whats	3
+'if	3
+colbert's	3
+make	3
+tank	3
+tina	3
+playstation	3
+ending	3
+doj	3
+tells	3
+mind	3
+hitchens	3
+diggers	3
+adobe	3
+attempt	3
+kabul	3
+vodka	3
+typo	3
+theres	3
+ignoring	3
+enhance	3
+look	3
+old's	3
+hs	3
+hr	3
+damn	3
+uganda	3
+taping	3
+generic	3
+capture	3
+nickelback	3
+smoking	3
+cowards	3
+admit	3
+years	3
+consequences	3
+cosplay	3
+completely	3
+thorium	3
+nickelodeon	3
+postsecret	3
+halloween	3
+israelis	3
+snoop	3
+crap	3
+deleting	3
+go	3
+.]	3
+alert	3
+askreddit	3
+awwww	3
+urgent	3
+fiancee	3
+skype	3
+else	3
+linux	3
+hackers	3
+spray	3
+clear	3
+electable	3
+kindle	3
+passed	3
+hivemind	3
+intellectualism	3
+censoring	3
+overturns	3
+ass	3
+quantum	3
+stopped	3
+payer	3
+starbucks	3
+cupcake	3
+yo	3
+photoshopping	3
+mcdonalds	3
+fl	3
+tried	3
+dui	3
+vp	3
+wikileaks'	3
+takes	3
+glitch	3
+answers	3
+apologizes	3
+decriminalized	3
+hadron	3
+deficit	3
+oblivion	3
+noam	3
+charged	3
+metric	3
+scum	3
+husband	3
+sheen	3
+romania	3
+card	3
+act's	3
+er	3
+nov	3
+aol	3
+,'	3
+skydiving	3
+cat	3
+douche	3
+ubisoft	3
+egypt's	3
+3am	3
+tesla	3
+pixar	3
+reset	3
+pineapples	3
+lifehacks	3
+asking	3
+filming	3
+gawker	3
+kyle	3
+blames	3
+wa	3
+co2	3
+yep	3
+steal	3
+vets	3
+admits	3
+hostel	3
+them	3
+1996	3
+1990	3
+negative	3
+com's	3
+voted	3
+saved	3
+repeal	3
+details	3
+inc	3
+ing	3
+'one	3
+yrs	3
+ballot	3
+daylight	3
+colour	3
+tattoo	3
+vs	3
+site	3
+laser	3
+hawking	3
+cs	3
+cj	3
+amtrak	3
+lazy	3
+rings	3
+fact	3
+4000	3
+demolishes	3
+backdoor	3
+blown	3
+spill	3
+spinal	3
+cage	3
+docs	3
+issa	3
+confiscate	3
+'not	3
+trolldad	3
+tarp	3
+takedown	3
+chat	3
+crackdown	3
+terrorists	3
+be	3
+demands	3
+backscatter	3
+flowchart	3
+medicaid	3
+mlg	3
+)!	3
+):	3
+see	3
+activists	3
+cry	3
+dawkins	3
+vader	3
+play	3
+zeppelin	3
+ftp	3
+its	3
+hasn	3
+owned	3
+tn	3
+tx	3
+mimic	3
+anner	3
+congress	3
+cream	3
+as	3
+ai	3
+cnbc	3
+with	3
+freaked	3
+act	3
+favorite	3
+;&	3
+monopoly	3
+bankruptcies	3
+meat	3
+bueller	3
+homophobic	3
+collider	3
+workplace	3
+buffet	3
+somethings	3
+argument	3
+shoppers	3
+.'"	3
+philosoraptor	3
+fu	3
+suspends	3
+year'	3
+wheelchair	3
+!!!!!!	3
+love	3
+funded	3
+:"	3
+neutrino	3
+has	3
+rednecks	3
+mcafee	3
+irl	3
+lotr	3
+saying	3
+episode	3
+olds	3
+chevron	3
+moment	3
+gameplay	3
+threatened	3
+effects	3
+wins	3
+fibonacci	3
+lgbt	3
+here	3
+bonuses	3
+gag	3
+
+
+
+
+
+
+
+
+
+
+NN-TL - noun, singular, common titles
+--------------------------------------------------
+news	73
+president	69
+man	64
+act	60
+house	53
+street	50
+day	45
+wall	45
+world	38
+time	32
+war	30
+court	29
+senate	28
+life	27
+state	26
+party	24
+senator	24
+patriot	23
+pirate	23
+bank	23
+bay	21
+church	20
+government	20
+earth	20
+dad	20
+woman	20
+story	19
+girl	19
+dog	17
+post	17
+city	17
+year	17
+cat	17
+judge	16
+school	15
+star	14
+security	14
+mom	14
+show	14
+park	14
+bear	13
+constitution	13
+department	12
+congressman	12
+amendment	12
+governor	12
+end	12
+science	12
+tax	12
+army	12
+love	12
+study	12
+zero	12
+university	11
+office	11
+son	10
+dead	10
+game	10
+family	10
+law	10
+water	10
+pentagon	9
+election	9
+kid	9
+cop	9
+defense	9
+justice	9
+gulf	9
+face	9
+marriage	9
+king	9
+major	9
+truth	9
+county	9
+way	8
+home	8
+mother	8
+person	8
+art	8
+professor	8
+space	8
+food	8
+campaign	8
+sign	8
+prize	8
+detention	8
+corporation	7
+general	7
+wife	7
+business	7
+empire	7
+officer	7
+left	7
+oil	7
+minister	7
+tiger	7
+drug	7
+college	7
+store	7
+open	7
+health	7
+front	7
+machine	7
+history	7
+father	7
+captain	7
+rule	6
+peace	6
+problem	6
+thanksgiving	6
+prison	6
+association	6
+center	6
+student	6
+air	6
+mart	6
+union	6
+report	6
+plan	6
+channel	6
+academy	6
+message	6
+square	6
+committee	6
+council	6
+baby	6
+music	6
+credit	6
+address	6
+reporter	6
+brother	6
+lord	6
+age	5
+education	5
+guard	5
+industry	5
+moon	5
+night	5
+lady	5
+soviet	5
+ocean	5
+administration	5
+community	5
+hero	5
+wedding	5
+pope	5
+drive	5
+part	5
+master	5
+system	5
+view	5
+marine	5
+foundation	5
+hill	5
+rock	5
+democracy	5
+making	5
+company	5
+parliament	5
+teen	5
+airport	5
+box	5
+movement	5
+liberty	5
+manager	5
+representative	4
+mass	4
+parenthood	4
+power	4
+yearbook	4
+fort	4
+universe	4
+corp	4
+operation	4
+deal	4
+shadow	4
+astronaut	4
+press	4
+capitol	4
+hand	4
+week	4
+cross	4
+technology	4
+fellow	4
+author	4
+cup	4
+boss	4
+artist	4
+coast	4
+hope	4
+physics	4
+class	4
+screw	4
+project	4
+district	4
+princess	4
+grandma	4
+navy	4
+development	4
+victory	4
+nation	4
+auto	4
+might	4
+wind	4
+order	4
+explorer	4
+beach	4
+island	4
+communist	4
+private	4
+honor	4
+sun	4
+pledge	4
+force	4
+team	4
+race	4
+mosque	4
+doctor	4
+building	3
+pool	3
+republic	3
+book	3
+warning	3
+deep	3
+deer	3
+record	3
+apology	3
+line	3
+ivory	3
+museum	3
+transfer	3
+crowd	3
+duke	3
+road	3
+magazine	3
+birth	3
+photographer	3
+death	3
+prince	3
+rest	3
+theater	3
+director	3
+mountain	3
+member	3
+soldier	3
+shirt	3
+budget	3
+mount	3
+presidency	3
+fund	3
+fire	3
+board	3
+trust	3
+country	3
+discovery	3
+review	3
+sea	3
+lion	3
+creator	3
+secretary	3
+evolution	3
+piano	3
+play	3
+iron	3
+bride	3
+hotel	3
+station	3
+service	3
+number	3
+legislation	3
+yard	3
+dictionary	3
+monster	3
+research	3
+side	3
+opera	3
+mystery	3
+twilight	3
+coffee	3
+group	3
+galaxy	3
+mayor	3
+chief	3
+coal	3
+collection	3
+challenge	3
+train	3
+camera	3
+pearl	3
+crisis	3
+sheriff	3
+journal	3
+knight	3
+harbor	3
+re	3
+
+
+
+
+
+
+
+
+
+
+PPSS - pronoun, personal, nominative, not 3rd person singular
+--------------------------------------------------
+i	2141
+you	1169
+we	439
+they	367
+
+
+
+
+
+
+
+
+
+
+DTS - determiner/pronoun, plural
+--------------------------------------------------
+these	107
+those	64
+them	10
+
+
+
+
+
+
+
+
+
+
+CD-TL - numeral, cardinal titles
+--------------------------------------------------
+99	21
+62	5
+101	4
+122	3
+
+
+
+
+
+
+
+
+
+
+DT - determiner/pronoun, singular
+--------------------------------------------------
+this	1717
+that	61
+another	57
+each	33
+
+
+
+
+
+
+
+
+
+
+PN$ - pronoun, nominal, genitive
+--------------------------------------------------
+everybody's	3
+someone's	3
+everyone's	3
+
+
+
+
+
+
+
+
+
+
+PPO - pronoun, personal, accusative
+--------------------------------------------------
+me	484
+him	186
+them	185
+us	90
+u	3
+
+
+
+
+
+
+
+
+
+
+PPL - pronoun, singular, reflexive
+--------------------------------------------------
+himself	31
+myself	24
+itself	15
+yourself	10
+herself	4
+
+
+
+
+
+
+
+
+
+
+PPS - pronoun, personal, nominative, 3rd person singular
+--------------------------------------------------
+it	1039
+he	399
+she	146
+
+
+
+
+
+
+
+
+
+
+VB - verb, base: uninflected present, imperative or infinitive
+--------------------------------------------------
+get	240
+think	206
+know	177
+make	177
+see	156
+fuck	134
+want	128
+help	124
+please	115
+stop	112
+go	109
+look	99
+take	98
+need	89
+give	85
+say	85
+show	78
+feel	77
+put	73
+pay	69
+find	60
+thank	54
+call	54
+remember	53
+tell	52
+read	51
+let	50
+keep	48
+start	46
+kill	46
+wait	46
+buy	45
+come	45
+believe	42
+ask	42
+check	41
+watch	39
+play	38
+cut	38
+com	37
+run	33
+move	33
+live	33
+hate	32
+hear	30
+stand	30
+save	30
+cover	30
+try	30
+talk	29
+understand	27
+break	27
+leave	26
+meet	26
+guess	25
+die	25
+beat	24
+turn	24
+become	23
+spread	23
+create	23
+remove	23
+allow	23
+stay	22
+drop	22
+win	22
+pass	22
+send	22
+add	21
+enjoy	21
+forget	21
+agree	20
+spend	20
+fix	20
+raise	19
+bring	19
+draw	18
+rally	18
+wish	18
+listen	18
+hold	18
+explain	17
+destroy	17
+write	17
+mean	16
+continue	15
+donate	15
+join	15
+realize	14
+warrant	14
+quit	14
+walk	14
+protect	14
+lie	14
+paint	14
+refuse	14
+build	13
+sell	13
+imagine	13
+appear	13
+prevent	13
+eat	12
+choose	12
+seem	12
+teach	12
+shoot	12
+follow	12
+lead	11
+admit	11
+wonder	11
+submit	10
+damn	10
+speak	10
+bear	10
+happen	10
+spill	10
+expose	10
+roll	9
+deserve	9
+lose	9
+catch	9
+sue	9
+pick	9
+consider	9
+push	8
+update	8
+exist	8
+convince	8
+prop	8
+quote	8
+miss	8
+introduce	8
+propose	8
+provide	8
+sit	8
+rape	8
+ride	8
+fly	8
+use	8
+replace	8
+wake	7
+fill	7
+remind	7
+restore	7
+argue	7
+steal	7
+react	7
+mind	7
+bet	7
+launch	7
+discuss	7
+appreciate	7
+suck	7
+learn	7
+hurt	7
+recognize	6
+pull	6
+eliminate	6
+avoid	6
+disagree	6
+worry	6
+volunteer	6
+fail	6
+carry	6
+expect	6
+enter	6
+prove	6
+resign	5
+flip	5
+offer	5
+fight	5
+apologize	5
+throw	5
+weed	5
+finish	5
+suggest	5
+enable	5
+respond	5
+bother	5
+massacre	5
+seize	5
+reach	5
+urge	5
+celebrate	5
+grow	5
+oppose	5
+handle	5
+accept	5
+install	5
+establish	5
+apply	5
+search	5
+sing	5
+jump	5
+pretend	5
+shave	5
+cook	5
+decide	5
+fan	5
+include	5
+compete	4
+hire	4
+burn	4
+obtain	4
+solve	4
+cross	4
+fry	4
+treat	4
+wear	4
+blame	4
+extend	4
+detect	4
+identify	4
+investigate	4
+announce	4
+slow	4
+begin	4
+rent	4
+require	4
+relate	4
+impose	4
+drink	4
+shut	4
+encourage	4
+defend	4
+reduce	4
+kiss	4
+pray	4
+cease	4
+afford	4
+secure	4
+change	4
+list	4
+marry	4
+affect	4
+assume	3
+behold	3
+abolish	3
+describe	3
+swear	3
+communicate	3
+invade	3
+dare	3
+swim	3
+reenact	3
+embrace	3
+rip	3
+suppose	3
+amend	3
+bullshit	3
+cancel	3
+reverse	3
+notice	3
+resist	3
+freeze	3
+dump	3
+grab	3
+comply	3
+hit	3
+participate	3
+retire	3
+bomb	3
+deny	3
+mix	3
+recover	3
+declare	3
+serve	3
+render	3
+organize	3
+produce	3
+disclose	3
+testify	3
+bump	3
+name	3
+mention	3
+fit	3
+maintain	3
+scare	3
+interview	3
+reject	3
+predict	3
+tap	3
+survive	3
+recommend	3
+emerge	3
+receive	3
+shove	3
+hide	3
+regret	3
+enforce	3
+tear	3
+foster	3
+violate	3
+beware	3
+represent	3
+
+
+
+
+
+
+
+
+
+
+FW-IN - foreign word: preposition
+--------------------------------------------------
+ad	25
+ex	13
+de	3
+
+
+
+
+
+
+
+
+
+
+PP$ - determiner, possessive
+--------------------------------------------------
+my	1364
+his	465
+your	378
+their	268
+her	206
+our	203
+its	153
+
+
+
+
+
+
+
+
+
+
+RBR - adverb, comparative
+--------------------------------------------------
+later	36
+longer	13
+better	10
+faster	8
+sooner	5
+harder	4
+further	3
+
+
+
+
+
+
+
+
+
+
+AP - determiner/pronoun, post-determiner
+--------------------------------------------------
+last	135
+other	97
+many	84
+much	79
+little	77
+same	63
+next	55
+single	46
+few	39
+less	39
+least	26
+more	24
+most	23
+former	20
+several	15
+enough	5
+fewer	3
+
+
+
+
+
+
+
+
+
+
+PPSS+HV - pronoun, personal, nominative, not 3rd person singular + verb 'to have', uninflected present tense
+--------------------------------------------------
+i've	121
+you've	31
+we've	14
+they've	5
+
+
+
+
+
+
+
+
+
+
+AT - article
+--------------------------------------------------
+the	5233
+a	3426
+an	483
+no	248
+every	162
+
+
+
+
+
+
+
+
+
+
+QL - qualifier, pre
+--------------------------------------------------
+so	235
+more	206
+most	134
+too	76
+very	53
+pretty	42
+quite	17
+absolutely	11
+right	11
+incredibly	7
+extremely	5
+highly	5
+somewhat	4
+utterly	4
+perfectly	3
+
+
+
+
+
+
+
+
+
+
